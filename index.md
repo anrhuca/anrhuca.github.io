@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido a la página de ANR - HUCA
 
-You can use the [editor on GitHub](https://github.com/anrhuca/anrhuca.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+En esta página se recoge información interesante relacionada con el servicio de Anestesia y reanimación del HUCA.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
