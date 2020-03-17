@@ -16,6 +16,7 @@ Enlaces interesantes a documentación relacionada con la enfermedad COVID-19
 * [Astursalud: Procedimiento de actuación ante sospechas de caso de infección por el nuevo coronavirus SARS-CoV-2 (COVID-19)](https://www.astursalud.es/en/noticias/-/noticias/procedimiento-de-actuacion-ante-sospechas-de-caso-de-infeccion-por-el-nuevo-coronavirus-2019-ncov-en-asturias)
 * [Video de colocación EPI](https://www.youtube.com/watch?v=jjaJYRolrJo&feature=youtu.be)
 
-### Páginas otros hospitales
+### Páginas otras fuentes
 
 * [Video de prevención de infección en pacientes con coronavirus](https://www.youtube.com/watch?v=zh-0br7NrDY)
+* [Artículos NEJM relacionados con COVID-19](https://www.nejm.org/coronavirus?cid=DM88311&bid=165326853)
