@@ -4,6 +4,11 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 Enlaces interesantes a documentación relacionada con la enfermedad COVID-19 
 
+### Páginas del servicio
+
+* [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO protocolo peticion cama.docx)
+* [Manejo de paciente con COVID-19 en quirófano](docs/QUIROFANO manejo cx paciente covid.docx)
+
 ### Páginas Gubernamentales
 
 * [Pagina del Ministerio de Sanidad, Consumo y Bienestar Social](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)
