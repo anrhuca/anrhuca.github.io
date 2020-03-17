@@ -4,7 +4,7 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 Enlaces interesantes a documentación relacionada con la enfermedad COVID-19 
 
-## :exclamation: Novedades
+## Novedades
 
 * 17/03/2020: [Protección del trabajador y familias frente a contagios por SARS-COV-2](docs/PROTECCIÓN_DEL_TRABAJADOR.docx)
 
