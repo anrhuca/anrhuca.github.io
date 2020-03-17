@@ -11,8 +11,7 @@ Enlaces interesantes a documentación relacionada con la enfermedad COVID-19
 
 ### Páginas Gubernamentales
 
-* [Página del Ministerio de Sanidad, Consumo y Bienestar Social relacionada con SARS-COV-2](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) Incluye: Situación actual, Documentos técnicos para profesionales, Información para ciudadanos y prensa.
-* [Documentos técnicos para profesionales](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos.htm)
+* [Página del Ministerio de Sanidad, Consumo y Bienestar Social relacionada con SARS-COV-2](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm) Incluye: [Situación actual](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [Documentos técnicos para profesionales](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos.htm), [Información para la ciudadanía](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/ciudadania.htm) y [Notas para prensa](https://www.mscbs.gob.es/profesionales/cargarNotas.do)
 * [Astursalud: Procedimiento de actuación ante sospechas de caso de infección por el nuevo coronavirus SARS-CoV-2 (COVID-19)](https://www.astursalud.es/en/noticias/-/noticias/procedimiento-de-actuacion-ante-sospechas-de-caso-de-infeccion-por-el-nuevo-coronavirus-2019-ncov-en-asturias)
 * [Video de colocación EPI](https://www.youtube.com/watch?v=jjaJYRolrJo&feature=youtu.be)
 
