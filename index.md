@@ -20,3 +20,4 @@ Enlaces interesantes a documentación relacionada con la enfermedad COVID-19
 
 * [Video de prevención de infección en pacientes con coronavirus](https://www.youtube.com/watch?v=zh-0br7NrDY)
 * [Artículos NEJM relacionados con COVID-19](https://www.nejm.org/coronavirus?cid=DM88311&bid=165326853)
+* [Artículos BMJ relacionados con COVID-19](https://www.bmj.com/coronavirus?int_source=wisepops&int_medium=wisepops&int_campaign=DAA_CoronaVirus_Jan24)
