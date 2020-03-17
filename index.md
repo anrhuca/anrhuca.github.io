@@ -6,6 +6,6 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 Enlaces interesantes a documentación relacionada con la enfermedad COVID-19 
 
-[Pagina del Ministerio](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)
+[Pagina del Ministerio de Sanidad, Consumo y Bienestar Social](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)
 
 [Documentos técnicos para profesionales](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos.htm)
