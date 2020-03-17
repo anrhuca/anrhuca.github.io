@@ -11,6 +11,7 @@ Enlaces interesantes a documentación relacionada con la enfermedad COVID-19
 
 ### Páginas Gubernamentales
 
+* [Datos de la situación actual de la infección (Fuente: mscbs)](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
 * [Pagina del Ministerio de Sanidad, Consumo y Bienestar Social](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)
 * [Documentos técnicos para profesionales](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos.htm)
 * [Astursalud: Procedimiento de actuación ante sospechas de caso de infección por el nuevo coronavirus SARS-CoV-2 (COVID-19)](https://www.astursalud.es/en/noticias/-/noticias/procedimiento-de-actuacion-ante-sospechas-de-caso-de-infeccion-por-el-nuevo-coronavirus-2019-ncov-en-asturias)
