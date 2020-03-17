@@ -7,6 +7,7 @@ Enlaces interesantes a documentación relacionada con la enfermedad COVID-19
 ### Páginas del servicio
 
 * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
+* [Protección del trabajador y familias frente a contagios por SARS-COV-2](docs/PROTECCIÓN_DEL_TRABAJADOR.docx)
 
 
 ### Páginas Gubernamentales
