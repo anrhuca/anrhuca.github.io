@@ -6,4 +6,4 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 Enlaces interesantes a documentación relacionada con la enfermedad COVID-19 
 
-[GitHub](http://github.com)
+[Pagina del Ministerio](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)
