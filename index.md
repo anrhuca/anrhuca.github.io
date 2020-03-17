@@ -3,7 +3,6 @@
 En esta página se recoge información que puede ser de interés, relacionada con el servicio de Anestesia y reanimación del HUCA.
 
 ### SARS-CoV 2
-<img align="left" width="100" src="img/Electron_micrograph_of_two_coronaviruses.jpg">
 
 ![Coronavirus](/img/Electron_micrograph_of_two_coronaviruses.jpg)
 
