@@ -6,8 +6,8 @@ Enlaces interesantes a documentación relacionada con la enfermedad COVID-19
 
 ### Páginas del servicio
 
-* [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO protocolo peticion cama.docx)
-* [Manejo de paciente con COVID-19 en quirófano](docs/QUIROFANO manejo cx paciente covid.docx)
+* [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
+* [Manejo de paciente con COVID-19 en quirófano](docs/QUIROFANO_manejo_cx_paciente_covid.docx)
 
 ### Páginas Gubernamentales
 
