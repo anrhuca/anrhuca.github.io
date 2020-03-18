@@ -27,8 +27,9 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 
 ### Páginas otras fuentes (Bibliografía)
 
+* [Página web de la SEDAR](https://sedar.es/index.php/agenda/noticias/webinars)
 * [Video de prevención de infección en pacientes con coronavirus](https://www.youtube.com/watch?v=zh-0br7NrDY)
 * [Artículos NEJM relacionados con COVID-19](https://www.nejm.org/coronavirus?cid=DM88311&bid=165326853)
 * [Artículos BMJ relacionados con COVID-19](https://www.bmj.com/coronavirus?int_source=wisepops&int_medium=wisepops&int_campaign=DAA_CoronaVirus_Jan24)
 * [Protección del trabajador y familias frente a contagios por SARS-COV-2 (SIMPA)](docs/PROTECCIÓN_DEL_TRABAJADOR.docx)
-* [SEDAR](https://sedar.es/index.php/agenda/noticias/webinars)
+
