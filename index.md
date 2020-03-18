@@ -2,7 +2,7 @@
 
 En esta página se recoge información que puede ser de interés, relacionada con el servicio de Anestesia y reanimación del HUCA.
 
-## [Novedades](novedades.md) para ver las novedades
+## [Novedades](novedades.md)
 
 Haga clic [Aquí](novedades.md) para ver las novedades
 
