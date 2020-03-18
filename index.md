@@ -6,6 +6,8 @@ Enlaces interesantes a documentación relacionada con la enfermedad COVID-19
 
 ## Novedades
 
+Haga clic [Aquí](novedades.md) para ver las novedades
+
 
 ### Páginas del servicio
 
