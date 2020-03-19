@@ -2,12 +2,11 @@
 
 ## 19/3/2020
 * Se MODIFICA el protocolo “Manejo intraoperatorio COVID 13 marzo” . Las modificaciones que se realicen se remarcarán en amarillo para que sea sencilla su localización. 
-
-* ACTITUD EN ANR ANTE CLINICA COMPATIBLE CON INFECCION POR COVID 19 : Al considerarse el Servicio de Anestesiología y Reanimación como personal sanitario de riesgo de transmisión, en caso de sintomatología compatible, permanerá en el domicilio y no acudirá al centro de trabajo.
-Avisará 	al 112 para que se le haga una PCR domiciliaria comunicando que es 	personal sanitario
-En 	caso de que esa sintomatología se presente en el centro de trabajo, 	antes de ir al domicilio se realizará la PCR en el HUCA 
-Ante cualquiera de estos casos avisad al Jefe del Servicio
-* Se incorpora el PLAN DE CONTINGENCIA  COVID 19  Servicio de salud del Principado de Asturias en la sección Documentos gubernamentales.
+* **ACTITUD EN ANR ANTE CLINICA COMPATIBLE CON INFECCION POR COVID 19**: Al considerarse el Servicio de Anestesiología y Reanimación como personal sanitario de riesgo de transmisión, en caso de sintomatología compatible, permanerá en el domicilio y no acudirá al centro de trabajo.
+Avisará al 112 para que se le haga una PCR domiciliaria comunicando que es personal sanitario.
+En caso de que esa sintomatología se presente en el centro de trabajo, 	antes de ir al domicilio se realizará la PCR en el HUCA 
+Ante cualquiera de estos casos avisad al Jefe del Servicio.
+* Se incorpora el **PLAN DE CONTINGENCIA COVID 19**  Servicio de salud del Principado de Asturias en la sección Documentos gubernamentales.
 * Os aclaramos que el acceso a la página web no puede realizarse a través de la intranet del HUCA ya que tiene una versión antigua de navegador. Hay que recurrir a Google Chrome, Mozilla Firefox. 
 
 
