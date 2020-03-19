@@ -10,9 +10,9 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 ### Páginas del servicio
 
 * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
-* [Check List de colocación de EPIs en quirófano](docs/CHECK_LIST_COLOCACIÓN_EPIS_QUIRÓFANO_17_MARZO_(2).pdf)
-* [Check List de colocación EPIS para la manipulación de la via aérea](docs/CHECK_LIST_COLOCACIÓN_EPIS_para_MANIPULACIÓN_DE_LA_VÍA_AÉREA_con_escafandra_(1).pdf)
-* [Manejo intraoperatorio COVID-19](docs/Manejo_intraoperatorio_COVID_17_marzo.pdf)
+* [Check List de colocación de EPIs en quirófano](docs/CHECK-LIST-COLOCACIÓN-EPIS-QUIROFANO-19_marzo_(1).pdf)
+* [Check List de colocación EPIS para la manipulación de la via aérea](docs/CHECK-LIST-COLOCACIÓN-EPIS-para-MANIPULACIÓN_DE_LA_VÍA_AÉREA_con_escafandra_19_marzo.pdf)
+* [Manejo intraoperatorio COVID-19](docs/Manejo-intraoperatorio-COVID_19_marzo_2020.docx)
 
 
 
