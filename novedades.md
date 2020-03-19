@@ -7,9 +7,7 @@ Avisará al 112 para que se le haga una PCR domiciliaria comunicando que es pers
 En caso de que esa sintomatología se presente en el centro de trabajo, 	antes de ir al domicilio se realizará la PCR en el HUCA 
 Ante cualquiera de estos casos avisad al Jefe del Servicio.
 * Se incorpora el **PLAN DE CONTINGENCIA COVID 19**  Servicio de salud del Principado de Asturias en la sección Documentos gubernamentales.
-* Os aclaramos que el acceso a la página web no puede realizarse a través de la intranet del HUCA ya que tiene una versión antigua de navegador. Hay que recurrir a Google Chrome, Mozilla Firefox. 
-
-
+* Os aclaramos que el acceso a la página web no puede realizarse a través del Internet Explorer de los ordenadores del HUCA, ya que tiene una versión antigua. Hay que recurrir a Google Chrome, Mozilla Firefox.
 
 ## 18/03/2020
 
