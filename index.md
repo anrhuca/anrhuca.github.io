@@ -35,7 +35,6 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 * [Artículos BMJ relacionados con COVID-19](https://www.bmj.com/coronavirus?int_source=wisepops&int_medium=wisepops&int_campaign=DAA_CoronaVirus_Jan24)
 * [Protección del trabajador y familias frente a contagios por SARS-COV-2 (SIMPA)](docs/PROTECCIÓN_DEL_TRABAJADOR.docx)
 * [Página web de la SEDAR](https://sedar.es/index.php/agenda/noticias/webinars)
-  * Protocolos de la SEDAR
    * [COVID-19 y VMNI SEDAR](docs/SEDAR/COVID-19-Y VMNI-SEDAR-pdf.pdf)
    * [Manejo periopoeratorio COVID-19](docs/SEDAR/MANEJO-PERIOPERATORIO-COVID-19-SEDAR-pdf.pdf)
    * [Manejo VA COVID-19](docs/SEDAR/MANEJO-VA-COVID-19-SEDAR-pdf.pdf)
