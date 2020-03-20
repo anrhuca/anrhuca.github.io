@@ -36,8 +36,8 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 * [Protección del trabajador y familias frente a contagios por SARS-COV-2 (SIMPA)](docs/PROTECCIÓN_DEL_TRABAJADOR.docx)
 * [Página web de la SEDAR](https://sedar.es/index.php/agenda/noticias/webinars)
   * Protocolos de la SEDAR
-    * [COVID-19 y VMNI SEDAR](docs/SEDAR/COVID-19-Y VMNI-SEDAR-pdf.pdf)
-    * [Manejo periopoeratorio COVID-19](docs/SEDAR/MANEJO-PERIOPERATORIO-COVID-19-SEDAR-pdf.pdf)
-    * [Manejo VA COVID-19](docs/SEDAR/MANEJO-VA-COVID-19-SEDAR-pdf.pdf)
-    * [Manejo Intraoperatorio COVID-19](docs/SEDAR/Manefjo-INTRAOPERATORIO-p-COVID-19-SEDAR-pdf.pdf)
-    * [Paciente gestante y COVID-19](docs/SEDAR/Paciente-GESTANTE-y-coronavirus-2019--nCoV,-COVID--19-SEDAR-pdf.pdf)
+   * [COVID-19 y VMNI SEDAR](docs/SEDAR/COVID-19-Y VMNI-SEDAR-pdf.pdf)
+   * [Manejo periopoeratorio COVID-19](docs/SEDAR/MANEJO-PERIOPERATORIO-COVID-19-SEDAR-pdf.pdf)
+   * [Manejo VA COVID-19](docs/SEDAR/MANEJO-VA-COVID-19-SEDAR-pdf.pdf)
+   * [Manejo Intraoperatorio COVID-19](docs/SEDAR/Manefjo-INTRAOPERATORIO-p-COVID-19-SEDAR-pdf.pdf)
+   * [Paciente gestante y COVID-19](docs/SEDAR/Paciente-GESTANTE-y-coronavirus-2019--nCoV,-COVID--19-SEDAR-pdf.pdf)
