@@ -10,8 +10,8 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 ### Páginas del servicio
 
 * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
-* [Check List Colocación de EPIs con ESCAFANDRA (19-03-2020](docs/servicio/19_de_Marzo_CHECK_LIST__EPI_QUIROFANO__con_escafandra.pdf)
-* [Check List de colocación EPIS **ESTERIL** con ESCAFANDRA (19-03-2020)](docs/servicio/19_marzo_CHECK_LIST_EPI_CIRUJANO_E_INSTRUMENTISTA.pdf)
+* [Check List EPI QUIRÓFANO (19-03-2020](docs/servicio/19_de_Marzo_CHECK_LIST__EPI_QUIROFANO__con_escafandra.pdf)
+* [Check List EPI CIRUJANO E INSTRUMENTISTA (19-03-2020)](docs/servicio/19_marzo_CHECK_LIST_EPI_CIRUJANO_E_INSTRUMENTISTA.pdf)
 * [Manejo intraoperatorio COVID-19](docs/Manejo-intraoperatorio-COVID_19_marzo_2020.docx)
 
 
