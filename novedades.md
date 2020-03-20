@@ -1,7 +1,8 @@
 # NOVEDADES
 
 ## 20/3/2020  
-* MODIFICACIONES: del protocolo “Manejo intraoperatorio COVID “ Las modificaciones se remarcan en amarillo.
+* MODIFICACIONES
+  * Protocolo “Manejo intraoperatorio COVID“. Las modificaciones se remarcan en amarillo.
 * NUEVO: 
   * Archivo con algoritmo de decision COVID 19  ante paciente quirurgico. 
   * Dos documentos oficiales sobre transfusión en casos COVID 19 y uso de mascarillas 
