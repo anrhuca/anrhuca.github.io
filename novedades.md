@@ -1,5 +1,11 @@
 # NOVEDADES
 
+## 20/3/2020  
+* MODIFICACIONES: del protocolo “Manejo intraoperatorio COVID “ Las modificaciones se remarcan en amarillo.
+* NUEVO: 
+  * Archivo con algoritmo de decision COVID 19  ante paciente quirurgico. 
+  * Dos documentos oficiales sobre transfusión en casos COVID 19 y uso de mascarillas 
+
 ## 19/3/2020
 * Se MODIFICA el protocolo “Manejo intraoperatorio COVID 13 marzo” . Las modificaciones que se realicen se remarcarán en amarillo para que sea sencilla su localización. 
 * **ACTITUD EN ANR ANTE CLINICA COMPATIBLE CON INFECCION POR COVID 19**: Al considerarse el Servicio de Anestesiología y Reanimación como personal sanitario de riesgo de transmisión, en caso de sintomatología compatible, permanerá en el domicilio y no acudirá al centro de trabajo.
