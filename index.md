@@ -14,9 +14,10 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 ### Páginas del servicio
 
 * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
-* [Check List EPI QUIRÓFANO ANESTESISTA (19-03-2020)](docs/servicio/19_de_Marzo_CHECK_LIST__EPI_QUIROFANO__con_escafandra.pdf)
-* [Check List EPI ESTERIL CIRUJANO E INSTRUMENTISTA (19/03/2020)](docs/servicio/19_marzo_CHECK_LIST_EPI_CIRUJANO_E_INSTRUMENTISTA.pdf)
+* [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
+* [Check List EPI ESTERIL CIRUJANO E INSTRUMENTISTA (19/03/2020)](docs/servicio/CHECK_LIST_EPI_ESTERIL_cirujano_e_instrumentista_(1).docx)
 * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf)
+* [Material de quirófanos]{docs/servicio/MATERALQUIROFANOS_COVID_19.docx}
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
 
 
