@@ -7,15 +7,15 @@ al HUCA sólo se permite por la puerta de hospitalización llamando al timbre.
 * MODIFICACIÓN: 
   * Se modifica el título del los check list EPIS … para favorecer su reconocimiento por los distintos usuarios.
 * NUEVO
-  * Se incorpora un nuevo archivo que contiene el material en quirófano en caso de tratar a un paciente COVID1 9
+  * Se incorpora un nuevo archivo que contiene el material en quirófano en caso de tratar a un paciente COVID-19
   * Se incorporan dos nuevos enlaces que permiten el acceso a la información actualizada de la situación de la pandemia tanto a nivel mundial como en España
 
 ## 20/3/2020  
 * MODIFICACIONES
   * Protocolo “Manejo intraoperatorio COVID“. Las modificaciones se remarcan en amarillo.
 * NUEVO: 
-  * Archivo con algoritmo de decision COVID 19  ante paciente quirurgico. 
-  * Dos documentos oficiales sobre transfusión en casos COVID 19 y uso de mascarillas 
+  * Archivo con algoritmo de decision COVID-19  ante paciente quirurgico. 
+  * Dos documentos oficiales sobre transfusión en casos COVID-19 y uso de mascarillas 
 
 ## 19/3/2020
 * Se MODIFICA el protocolo “Manejo intraoperatorio COVID 13 marzo” . Las modificaciones que se realicen se remarcarán en amarillo para que sea sencilla su localización. 
@@ -23,7 +23,7 @@ al HUCA sólo se permite por la puerta de hospitalización llamando al timbre.
 Avisará al 112 para que se le haga una PCR domiciliaria comunicando que es personal sanitario.
 En caso de que esa sintomatología se presente en el centro de trabajo, 	antes de ir al domicilio se realizará la PCR en el HUCA 
 Ante cualquiera de estos casos avisad al Jefe del Servicio.
-* Se incorpora el **PLAN DE CONTINGENCIA COVID 19**  Servicio de salud del Principado de Asturias en la sección Documentos gubernamentales.
+* Se incorpora el **PLAN DE CONTINGENCIA COVID-19** del Servicio de salud del Principado de Asturias en la sección Documentos gubernamentales.
 * Os aclaramos que el acceso a la página web no puede realizarse a través del Internet Explorer de los ordenadores del HUCA, ya que tiene una versión antigua. Hay que recurrir a Google Chrome, Mozilla Firefox.
 
 ## 18/03/2020
@@ -32,8 +32,6 @@ Ante cualquiera de estos casos avisad al Jefe del Servicio.
 
 * Mañanas 38720 o al busca del residente 75873
 * Tardes llamar al busca del residente 75873
-
-
 
 ## 16/03/2020
 
