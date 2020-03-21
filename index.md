@@ -2,6 +2,10 @@
 
 En esta página se recoge información que puede ser de interés, relacionada con el servicio de Anestesia y reanimación del HUCA.
 
+## Situación actual de la COVID-19
+* [Casos de COVID-19 en el mundo - Worldometer](https://www.worldometers.info/coronavirus/#countries)
+* [Situación de COVID-19 en España](https://covid19.isciii.es/)
+
 ## [Novedades](novedades.md)
 
 Haga clic [Aquí](novedades.md) para ver las novedades
@@ -16,7 +20,6 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
 
 
-
 ### Documentos Gubernamentales
 
 * [Página del Ministerio de Sanidad, Consumo y Bienestar Social relacionada con SARS-COV-2](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)
@@ -29,7 +32,6 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 
 ### Páginas otras fuentes (Bibliografía)
 
-* [Página web de la SEDAR](https://sedar.es/index.php/agenda/noticias/webinars)
 * [Video de prevención de infección en pacientes con coronavirus](https://www.youtube.com/watch?v=zh-0br7NrDY)
 * [Artículos NEJM relacionados con COVID-19](https://www.nejm.org/coronavirus?cid=DM88311&bid=165326853)
 * [Artículos BMJ relacionados con COVID-19](https://www.bmj.com/coronavirus?int_source=wisepops&int_medium=wisepops&int_campaign=DAA_CoronaVirus_Jan24)
