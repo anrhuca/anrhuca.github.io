@@ -17,7 +17,6 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 * [Manejo perioperatorio COVID-19 (19/03/2020)](https://drive.google.com/open?id=1ZQGE6u_xB9Wq5CWRogNI_zn1oBTK8kNY)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
-* [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
 
 #### Para ANESTESISTA, CIRCULANTE y CELADOR
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
@@ -34,8 +33,9 @@ Haga clic [Aquí](novedades.md) para ver las novedades
   * [Protocolo COVID-19 en Radiología Intervencionista](https://drive.google.com/open?id=1Sp4fw1apfP9KqtsrRH6OxMVlLS3CTYFI)
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 
-#### REANIMACIÓN
-  * [Plan de contingencia](https://drive.google.com/open?id=1hXh9hNBIF2Qym_J4q1NesUzMPFYF196r)
+#### POSTOPERATORIO
+  * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
+  * [Plan de contingencia de Postoperatorio](https://drive.google.com/open?id=1hXh9hNBIF2Qym_J4q1NesUzMPFYF196r)
 
 ### Documentos Gubernamentales
 
