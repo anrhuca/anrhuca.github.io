@@ -25,9 +25,7 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 * [Manejo perioperatorio COVID-19 (19/03/2020)](https://drive.google.com/open?id=1ZQGE6u_xB9Wq5CWRogNI_zn1oBTK8kNY)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
-* [Algoritmo de decisión CO]VID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
-* Videos
-  
+* [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
   
 
 
