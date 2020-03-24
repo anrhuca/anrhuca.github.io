@@ -19,7 +19,12 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 * [Manejo perioperatorio COVID-19 (19/03/2020)](https://drive.google.com/open?id=1ZQGE6u_xB9Wq5CWRogNI_zn1oBTK8kNY)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
-* [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
+* [Algoritmo de decisión CO]VID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
+* Videos
+  * [Colocación de EPI estéril en quirófano](https://youtu.be/DcnsQFqQ9gU)
+  * [Retirada EPI no estéril en quirófano](https://youtu.be/gSMKlA2-Fm8)
+  * [Retirada EPI estéril en qurófano](https://youtu.be/Ne4Ajs5auGU)
+  * [Colocación de EPI no estéril en quirófano](https://youtu.be/NA2lnNf2GWM)
 
 
 ### Documentos Gubernamentales
