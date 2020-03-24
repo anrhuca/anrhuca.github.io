@@ -18,7 +18,7 @@ Haga clic [Aquí](novedades.md) para ver las novedades
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
   * [Colocación de EPI no estéril en quirófano](https://youtu.be/NA2lnNf2GWM)
   * [Retirada EPI no estéril en quirófano](https://youtu.be/gSMKlA2-Fm8)
-* Para CIRUJANO y INSTRUMENTISTA
+* Para CIRUJANO e INSTRUMENTISTA
   * [Check List EPI ESTERIL CIRUJANO E INSTRUMENTISTA (19/03/2020)](docs/servicio/CHECK_LIST_EPI_ESTERIL_cirujano_e_instrumentista_(1).docx)
   * [Colocación de EPI estéril en quirófano (video)](https://youtu.be/DcnsQFqQ9gU)
   * [Retirada EPI estéril en qurófano (video)](https://youtu.be/Ne4Ajs5auGU)
