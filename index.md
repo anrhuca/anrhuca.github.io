@@ -14,17 +14,21 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 ### Páginas del servicio
 
 * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
-* [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
-* [Check List EPI ESTERIL CIRUJANO E INSTRUMENTISTA (19/03/2020)](docs/servicio/CHECK_LIST_EPI_ESTERIL_cirujano_e_instrumentista_(1).docx)
+* Para ANESTESISTA, CIRCULANTE y CELADOR
+  * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
+  * [Retirada EPI no estéril en quirófano](https://youtu.be/gSMKlA2-Fm8)
+  * [Colocación de EPI no estéril en quirófano](https://youtu.be/NA2lnNf2GWM)
+* Para CIRUJANO y ANESTESISTA
+  * [Check List EPI ESTERIL CIRUJANO E INSTRUMENTISTA (19/03/2020)](docs/servicio/CHECK_LIST_EPI_ESTERIL_cirujano_e_instrumentista_(1).docx)
+  * [Colocación de EPI estéril en quirófano (video)](https://youtu.be/DcnsQFqQ9gU)
+  * [Retirada EPI estéril en qurófano (video)](https://youtu.be/Ne4Ajs5auGU)
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 * [Manejo perioperatorio COVID-19 (19/03/2020)](https://drive.google.com/open?id=1ZQGE6u_xB9Wq5CWRogNI_zn1oBTK8kNY)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
 * [Algoritmo de decisión CO]VID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
 * Videos
-  * [Colocación de EPI estéril en quirófano](https://youtu.be/DcnsQFqQ9gU)
-  * [Retirada EPI no estéril en quirófano](https://youtu.be/gSMKlA2-Fm8)
-  * [Retirada EPI estéril en qurófano](https://youtu.be/Ne4Ajs5auGU)
-  * [Colocación de EPI no estéril en quirófano](https://youtu.be/NA2lnNf2GWM)
+  
+  
 
 
 ### Documentos Gubernamentales
