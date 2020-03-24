@@ -30,7 +30,7 @@ Haga clic [Aquí](novedades.md) para ver las novedades
   * [Colocación de EPI estéril en quirófano (video)](https://youtu.be/DcnsQFqQ9gU)
   * [Retirada EPI estéril en qurófano (video)](https://youtu.be/Ne4Ajs5auGU)
 
-#### Radiología intervencionista
+#### RADIOLOGÍA INTERVENCIONISTA
   * [Check List EPI estéril Radiología intervencionista](https://drive.google.com/open?id=1jjVka6drIJmI4gEXQgbpVr6fwt410Cim)
   * [Protocolo COVID-19 en Radiología Intervencionista](https://drive.google.com/open?id=1Sp4fw1apfP9KqtsrRH6OxMVlLS3CTYFI)
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
