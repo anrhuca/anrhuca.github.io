@@ -1,5 +1,11 @@
 # NOVEDADES
 
+## 26/3/2020
+* NUEVO
+  * Se publica un archivo enviado por el S de Neurología donde se especifica la ADAPTACIÓN TEMPORAL DE LOS CRITERIOS DE TRATAMIENTO ENDOVASCULAR EN PACIENTES CON ICTUS ISQUÉMICO AGUDO Y SOSPECHA O CONFIRMACIÓN DE INFECCIÓN POR COVID-19
+  * Se añade enlace al recurso bibliográfico de Elsevier relacionado con SARS-COV-2/COVID-19
+
+
 ## 24/3/2020
 * NUEVO
   * PLAN DE CONTINGENCIA sección REANIMACIÓN SERVICIO ANR HUCA
