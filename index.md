@@ -31,7 +31,7 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 #### RADIOLOGÍA INTERVENCIONISTA
   * [Check List EPI estéril Radiología intervencionista](https://drive.google.com/open?id=1jjVka6drIJmI4gEXQgbpVr6fwt410Cim)
   * [Protocolo COVID-19 en Radiología Intervencionista](https://drive.google.com/open?id=1Sp4fw1apfP9KqtsrRH6OxMVlLS3CTYFI)
-  * [Código Ictus en pacientes COVID-19](https://drive.google.com/open?id=1caJQKOamMl776EUAORIhKP131d1yLXHH)
+  * [Adaptación temporal de los criterios de tratamiento endovascular en pacientes con ictus isquémico agudo y sospecha o confirmación de COVID-19](https://drive.google.com/open?id=1caJQKOamMl776EUAORIhKP131d1yLXHH)
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 
 #### POSTOPERATORIO
