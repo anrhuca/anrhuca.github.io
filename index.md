@@ -6,7 +6,7 @@ En esta página se recoge información que puede ser de interés, relacionada co
 * [Casos de COVID-19 en el mundo - Worldometer](https://www.worldometers.info/coronavirus/#countries)
 * [Situación de COVID-19 en España](https://covid19.isciii.es/)
 
-## Novedades
+## Novedades (última actualización 28-03-2020)
 
 Haga clic [Aquí](novedades.md) para ver las novedades
 
@@ -14,7 +14,7 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 ### Páginas del servicio
 
 #### General
-* [Manejo perioperatorio COVID-19 (19/03/2020)](https://drive.google.com/open?id=1ZQGE6u_xB9Wq5CWRogNI_zn1oBTK8kNY)
+* [Manejo perioperatorio COVID-19 (28/03/2020)](https://drive.google.com/open?id=1FTGegycvAfEgzLARzSFwZvq_lbYCw7pF)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
 
@@ -56,6 +56,7 @@ Haga clic [Aquí](novedades.md) para ver las novedades
 * [Artículos BMJ relacionados con COVID-19](https://www.bmj.com/coronavirus?int_source=wisepops&int_medium=wisepops&int_campaign=DAA_CoronaVirus_Jan24)
 * [Novel Coronavirus Information Center - (Elsevier)](https://www.elsevier.com/connect/coronavirus-information-center?utm_campaign=HS_20ES1738002_Professionals_CorporateComm_COVID19_Resources_PIF&utm_campaignPK=1681659956&utm_term=OP65731&utm_content=1681659958&utm_source=85&BID=1082604870&utm_medium=email&SIS_ID=-1)
 * [Protección del trabajador y familias frente a contagios por SARS-COV-2 (SIMPA)](docs/PROTECCIÓN_DEL_TRABAJADOR.docx)
+* [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19](https://drive.google.com/open?id=1ysUkBZrwUDyCk7xijqGLyKzuyuVDNU0G)
 * [Página web de la SEDAR](https://sedar.es/index.php/agenda/noticias/webinars)
 * Protocolos de la SEDAR
   * [COVID-19 y VMNI SEDAR](docs/SEDAR/COVID-19-Y VMNI-SEDAR-pdf.pdf)
