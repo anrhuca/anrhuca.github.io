@@ -1,5 +1,11 @@
 # NOVEDADES
 
+## 28/372020
+* MODIFICACIÓN
+  * Se actualiza el documento MANEJO PERIOPERATORIO COVID 19 en el que, como en casos anteriores, se reseñan los cambios actuales en amarillo.
+* NUEVO
+  * Se incorpora en “Otras fuentes” el PROTOCOLO CLÍNICO DE TRATAMIENTO PARA LOS PACIENTES CON SDRA SECUNDARIO A COVID realizado por Unidad de Cuidados Intensivos Cardiológicos del HUCA.
+
 ## 26/3/2020
 * NUEVO
   * Se publica un archivo enviado por el S de Neurología donde se especifica la ADAPTACIÓN TEMPORAL DE LOS CRITERIOS DE TRATAMIENTO ENDOVASCULAR EN PACIENTES CON ICTUS ISQUÉMICO AGUDO Y SOSPECHA O CONFIRMACIÓN DE INFECCIÓN POR COVID-19
