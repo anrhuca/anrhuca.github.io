@@ -1,6 +1,6 @@
 # NOVEDADES
 
-## 28/372020
+## 28/03/2020
 * MODIFICACIÓN
   * Se actualiza el documento MANEJO PERIOPERATORIO COVID 19 en el que, como en casos anteriores, se reseñan los cambios actuales en amarillo.
 * NUEVO
