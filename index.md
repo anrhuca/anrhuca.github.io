@@ -6,9 +6,9 @@ En esta página se recoge información que puede ser de interés, relacionada co
 * [Casos de COVID-19 en el mundo - Worldometer](https://www.worldometers.info/coronavirus/#countries)
 * [Situación de COVID-19 en España](https://covid19.isciii.es/)
 
-## Novedades (28-03-2020)
+## Novedades actualizadas el 29-03-2020
 
-Haga clic [Aquí](novedades.md) para ver las novedades a 28/03/2020)
+Haga clic [Aquí](novedades.md) para ver las novedades a 29/03/2020
 
 
 ### Páginas del servicio
