@@ -1,5 +1,9 @@
 # NOVEDADES
 
+## 29/03/2020
+* NUEVO
+  * Se crea la sección REANIMACIÓN con el fin de incluir protocolos de actuación consensuados en el Servicio. Hoy se incorporan varios para el tratamiento de pacientes neurocríticos así como protocolo de TRRC.
+  
 ## 28/03/2020
 * MODIFICACIÓN
   * Se actualiza el documento MANEJO PERIOPERATORIO COVID 19 en el que, como en casos anteriores, se reseñan los cambios actuales en amarillo.
