@@ -17,13 +17,14 @@ Haga clic [Aquí](novedades.md) para ver las novedades a 28/03/2020)
 * [Manejo perioperatorio COVID-19 (28/03/2020)](https://drive.google.com/open?id=1FTGegycvAfEgzLARzSFwZvq_lbYCw7pF)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
+* [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
 
-#### Para ANESTESISTA, CIRCULANTE y CELADOR
+#### Colocación/Retirada de EPI para ANESTESISTA, CIRCULANTE y CELADOR
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
   * [Colocación de EPI no estéril en quirófano (video)](https://youtu.be/NA2lnNf2GWM)
   * [Retirada EPI no estéril en quirófano (video)](https://youtu.be/gSMKlA2-Fm8)
 
-#### Para CIRUJANO e INSTRUMENTISTA
+#### Colocación/Retirada de EPI Para CIRUJANO e INSTRUMENTISTA
   * [Check List EPI ESTERIL CIRUJANO E INSTRUMENTISTA (19/03/2020)](docs/servicio/CHECK_LIST_EPI_ESTERIL_cirujano_e_instrumentista_(1).docx)
   * [Colocación de EPI estéril en quirófano (video)](https://youtu.be/DcnsQFqQ9gU)
   * [Retirada EPI estéril en qurófano (video)](https://youtu.be/Ne4Ajs5auGU)
@@ -34,9 +35,18 @@ Haga clic [Aquí](novedades.md) para ver las novedades a 28/03/2020)
   * [Adaptación temporal de los criterios de tratamiento endovascular en pacientes con ictus isquémico agudo y sospecha o confirmación de COVID-19](https://drive.google.com/open?id=1caJQKOamMl776EUAORIhKP131d1yLXHH)
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 
-#### POSTOPERATORIO
+#### POSTOPERATORIO Planificación
   * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
   * [Plan de contingencia de Postoperatorio](https://drive.google.com/open?id=1hXh9hNBIF2Qym_J4q1NesUzMPFYF196r)
+  
+#### REANIMACIÓN
+##### NEUROCRÍTICOS
+  * [Hipertensión intracraneal y monitorización de la PIC](https://drive.google.com/open?id=1nLTCo8QojBAfJnt6CutSY9Il31dbOtWb)
+  * [Protocolo de ingreso de ACV isquémico](https://drive.google.com/open?id=1m1NX40pZvTNRXXTWoVr6TWEhdajfQOSv)
+  * [Protocolo de ingreso de Hemorragia Intracerebral](https://drive.google.com/open?id=10WVv4V9BllHO_UsUWq17iLfGsln8N_Ny)
+  * [Protocolo de HSA con aneurisma no embolizado](https://drive.google.com/open?id=1_9F1eFoO8MJnJ5aT67qR8bG4n-qNgbgn)
+  * [Protocolo de ingreso de traumatismo craneoencefálico](https://drive.google.com/open?id=1wtrx_Q3ydYRUS0yZQqnHbic-nQFi4lFb)
+  
 
 ### Documentos Gubernamentales
 
