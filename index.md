@@ -19,12 +19,12 @@ Haga clic [Aquí](novedades.md) para ver las novedades a 29/03/2020
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
 * [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
 
-#### Colocación/Retirada de EPI para ANESTESISTA, CIRCULANTE y CELADOR
+#### Colocación/Retirada de EPI para **ANESTESISTA, CIRCULANTE y CELADOR**
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
   * [Colocación de EPI no estéril en quirófano (video)](https://youtu.be/NA2lnNf2GWM)
   * [Retirada EPI no estéril en quirófano (video)](https://youtu.be/gSMKlA2-Fm8)
 
-#### Colocación/Retirada de EPI Para CIRUJANO e INSTRUMENTISTA
+#### Colocación/Retirada de EPI para **CIRUJANO e INSTRUMENTISTA**
   * [Check List EPI ESTERIL CIRUJANO E INSTRUMENTISTA (19/03/2020)](docs/servicio/CHECK_LIST_EPI_ESTERIL_cirujano_e_instrumentista_(1).docx)
   * [Colocación de EPI estéril en quirófano (video)](https://youtu.be/DcnsQFqQ9gU)
   * [Retirada EPI estéril en qurófano (video)](https://youtu.be/Ne4Ajs5auGU)
