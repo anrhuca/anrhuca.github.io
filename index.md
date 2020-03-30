@@ -42,11 +42,15 @@ Haga clic [Aquí](novedades.md) para ver las novedades a 29/03/2020
 #### TÉCNICAS
   * [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
 
+#### CARDIOVASCULAR
+  * [Cuidados postoperatorios CCA](https://drive.google.com/open?id=1zXF_FJRBkr2_3kET9IpbRaDOc5gxvpyu)
+  
 #### NEUROCRÍTICOS
   * [Hipertensión intracraneal y monitorización de la PIC](https://drive.google.com/open?id=1nLTCo8QojBAfJnt6CutSY9Il31dbOtWb)
   * [Protocolo de ingreso de ACV isquémico](https://drive.google.com/open?id=1m1NX40pZvTNRXXTWoVr6TWEhdajfQOSv)
   * [Protocolo de ingreso de Hemorragia Intracerebral](https://drive.google.com/open?id=10WVv4V9BllHO_UsUWq17iLfGsln8N_Ny)
   * [Protocolo de HSA con aneurisma no embolizado](https://drive.google.com/open?id=1_9F1eFoO8MJnJ5aT67qR8bG4n-qNgbgn)
+  * [Protocolo de HSA con aneurisma embolizado](https://drive.google.com/open?id=18zttkKiX0h4zqZRAwDxKY6MBZCf3x2YP)
   * [Protocolo de ingreso de traumatismo craneoencefálico](https://drive.google.com/open?id=1wtrx_Q3ydYRUS0yZQqnHbic-nQFi4lFb)
   
 
