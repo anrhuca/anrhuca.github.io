@@ -53,6 +53,8 @@ Haga clic [Aquí](novedades.md) para ver las novedades a 29/03/2020
   * [Protocolo de HSA con aneurisma **embolizado**](https://drive.google.com/open?id=18zttkKiX0h4zqZRAwDxKY6MBZCf3x2YP)
   * [Protocolo de ingreso de traumatismo craneoencefálico](https://drive.google.com/open?id=1wtrx_Q3ydYRUS0yZQqnHbic-nQFi4lFb)
   
+### GINECOLOGÍA Y OBSTETRICIA
+  * [Manejo perioperatorio de gestante y COVID-19](https://drive.google.com/open?id=1fCQgKK5xKVFdOuRmq1mLCdVPw30qL_16https://drive.google.com/open?id=1fCQgKK5xKVFdOuRmq1mLCdVPw30qL_16)
 
 ## Documentos Gubernamentales
 
