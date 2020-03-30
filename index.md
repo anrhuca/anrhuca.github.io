@@ -17,7 +17,6 @@ Haga clic [Aquí](novedades.md) para ver las novedades a 29/03/2020
 * [Manejo perioperatorio COVID-19 (28/03/2020)](https://drive.google.com/open?id=1FTGegycvAfEgzLARzSFwZvq_lbYCw7pF)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
-* [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
 
 ### **Colocación/Retirada de EPI** para ANESTESISTA, CIRCULANTE y CELADOR
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
@@ -40,6 +39,9 @@ Haga clic [Aquí](novedades.md) para ver las novedades a 29/03/2020
   * [Plan de contingencia de Postoperatorio](https://drive.google.com/open?id=1hXh9hNBIF2Qym_J4q1NesUzMPFYF196r)
   
 ### REANIMACIÓN
+#### TÉCNICAS
+  * [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
+
 #### NEUROCRÍTICOS
   * [Hipertensión intracraneal y monitorización de la PIC](https://drive.google.com/open?id=1nLTCo8QojBAfJnt6CutSY9Il31dbOtWb)
   * [Protocolo de ingreso de ACV isquémico](https://drive.google.com/open?id=1m1NX40pZvTNRXXTWoVr6TWEhdajfQOSv)
