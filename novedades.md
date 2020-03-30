@@ -1,5 +1,12 @@
 # NOVEDADES
 
+## 30/03/2020
+* NUEVO
+   * Se han añadido nuevos protocolos en la carpeta de Reanimación:
+     * Protocolo ingreso HSA con aneurisma embolizado
+     * Manejo perioperatorio de la gestante y COVID 19
+     * Cuidados postoperatorios en CCA
+
 ## 29/03/2020
 * NUEVO
   * Se crea la sección REANIMACIÓN con el fin de incluir protocolos de actuación consensuados en el Servicio. Hoy se incorporan varios para el tratamiento de pacientes neurocríticos así como protocolo de TRRC.
