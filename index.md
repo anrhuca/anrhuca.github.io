@@ -7,9 +7,7 @@ En esta página se recoge información que puede ser de interés, relacionada co
 * [Casos de COVID-19 en el mundo - Worldometer](https://www.worldometers.info/coronavirus/#countries)
 * [Situación de COVID-19 en España](https://covid19.isciii.es/)
 
-## Novedades
-
-### 30/03/2020
+## Novedades del 30/03/2020
 * NUEVO
    * Se han añadido nuevos protocolos en la carpeta de Reanimación:
      * Protocolo ingreso HSA con aneurisma embolizado
