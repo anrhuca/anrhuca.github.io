@@ -16,14 +16,14 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 Haga clic [Aquí](novedades.md) para ver el historial de novedades.
 
-## Páginas del servicio
+## PÁGINAS DEL SERVICIO
 
 Haga clic [Aquí](paginas_servicio.md) para acceder a los protocolos y recomendaciones del servicio.
 
-## Documentos Gubernamentales
+## DOCUMENTOS GUBERNAMENTALES
 
 Haga clic [Aquí](documentos_gubernamentales.md) para acceder a documentos gubernamentales.
 
-## Páginas otras fuentes (Bibliografía)
+## OTRAS FUENTES (Bibliografía)
 
 Haga clic [Aquí](otras_fuentes.md) para acceder a fuentes bibliográficas relacionadas con COVID-19.
