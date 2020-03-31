@@ -4,7 +4,7 @@
 * [Manejo perioperatorio COVID-19 (28/03/2020)](https://drive.google.com/open?id=1FTGegycvAfEgzLARzSFwZvq_lbYCw7pF)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
-* [Manejo perioperatorio del paciente pediátrico](https://drive.google.com/open?id=1bVIhCMjYHXruLQqioDCZkTaZdWn4XJU9)
+* [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1bVIhCMjYHXruLQqioDCZkTaZdWn4XJU9)
 
 ### **Colocación/Retirada de EPI** para ANESTESISTA, CIRCULANTE y CELADOR
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
@@ -42,7 +42,7 @@
   * [Manejo perioperatorio de gestante y COVID-19](https://drive.google.com/open?id=1fCQgKK5xKVFdOuRmq1mLCdVPw30qL_16https://drive.google.com/open?id=1fCQgKK5xKVFdOuRmq1mLCdVPw30qL_16)
 
 ### OTROS
-  * [Protocolo del gran quemado](https://drive.google.com/open?id=1kkQp65nL1dkyIpMJxeDRaZMJ0cwN7eq-)
+  * [Protocolo de manejo del gran quemado](https://drive.google.com/open?id=1kkQp65nL1dkyIpMJxeDRaZMJ0cwN7eq-)
 
 ## POSTOPERATORIO Planificación
   * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
