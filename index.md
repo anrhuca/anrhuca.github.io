@@ -9,7 +9,14 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 ## Novedades actualizadas el 29-03-2020
 
-Haga clic [Aquí](novedades.md) para ver las novedades a 29/03/2020
+### 30/03/2020
+* NUEVO
+   * Se han añadido nuevos protocolos en la carpeta de Reanimación:
+     * Protocolo ingreso HSA con aneurisma embolizado
+     * Manejo perioperatorio de la gestante y COVID 19
+     * Cuidados postoperatorios en CCA
+
+Haga clic [Aquí](novedades.md) para ver el historial de novedades.
 
 ## Páginas del servicio
 
