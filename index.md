@@ -7,7 +7,13 @@ En esta página se recoge información que puede ser de interés, relacionada co
 * [Casos de COVID-19 en el mundo - Worldometer](https://www.worldometers.info/coronavirus/#countries)
 * [Situación de COVID-19 en España](https://covid19.isciii.es/)
 
-## NOVEDADES DEL 30/03/2020
+## NOVEDADES DEL 1/4/2020
+### NUEVO
+  * Se han codificado los diagnósticos de : COVID-19 y Sospecha de COVID-19 en la historia clínica electrónica (Millennium)
+### MODIFICACION:
+  * Protocolo COVID-19 en Neurología intervencionista
+  * Check List EPI estéril Radiología intervencionista
+  * Manejo perioperatorio COVID 19
 ### NUEVO
  * Se han añadido nuevos protocolos en la [carpeta de Reanimación](paginas_servicio.md):
    * Protocolo ingreso HSA con aneurisma embolizado
