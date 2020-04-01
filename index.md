@@ -14,11 +14,6 @@ En esta página se recoge información que puede ser de interés, relacionada co
   * Protocolo COVID-19 en Neurología intervencionista
   * Check List EPI estéril Radiología intervencionista
   * Manejo perioperatorio COVID 19
-### NUEVO
- * Se han añadido nuevos protocolos en la [carpeta de Reanimación](paginas_servicio.md):
-   * Protocolo ingreso HSA con aneurisma embolizado
-   * Manejo perioperatorio de la gestante y COVID 19
-   * Cuidados postoperatorios en CCA
 
 Haga clic [Aquí](novedades.md) para ver el historial de novedades.
 
