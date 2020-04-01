@@ -1,7 +1,7 @@
 # Páginas del servicio
 
 ## QUIRÓFANO
-* [Manejo perioperatorio COVID-19 (28/03/2020)](https://drive.google.com/open?id=1FTGegycvAfEgzLARzSFwZvq_lbYCw7pF)
+* [Manejo perioperatorio COVID-19 (31/03/2020)](https://drive.google.com/open?id=1Mvx-48YLnHTeCMPB2no63c3bhJDgrJ9R)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
 * [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
 * [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1bVIhCMjYHXruLQqioDCZkTaZdWn4XJU9)
@@ -18,7 +18,7 @@
 
 ## RADIOLOGÍA INTERVENCIONISTA
   * [Check List EPI estéril Radiología intervencionista](https://drive.google.com/open?id=1jjVka6drIJmI4gEXQgbpVr6fwt410Cim)
-  * [Protocolo COVID-19 en Radiología Intervencionista](https://drive.google.com/open?id=1Sp4fw1apfP9KqtsrRH6OxMVlLS3CTYFI)
+  * [Protocolo COVID-19 en Radiología Intervencionista](https://drive.google.com/open?id=1mkL5YXhpgbVDEqBmfL9OM-7RJIcznGFa)
   * [Adaptación temporal de los criterios de tratamiento endovascular en pacientes con ictus isquémico agudo y sospecha o confirmación de COVID-19](https://drive.google.com/open?id=1caJQKOamMl776EUAORIhKP131d1yLXHH)
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 
