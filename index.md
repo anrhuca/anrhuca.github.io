@@ -9,9 +9,9 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 ## NOVEDADES DEL 1/4/2020
 ### NUEVO
-  * Se han codificado los diagnósticos de : COVID-19 y Sospecha de COVID-19 en la historia clínica electrónica (Millennium)
+  * Se han incluido la codificación de los diagnósticos de: COVID-19 y Sospecha de COVID-19 en la historia clínica electrónica (Millennium)
 
-### MODIFICACION:
+### MODIFICACIÓN:
   * Protocolo COVID-19 en Neurología intervencionista
   * Check List EPI estéril Radiología intervencionista
   * Manejo perioperatorio COVID 19
