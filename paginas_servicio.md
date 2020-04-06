@@ -1,9 +1,9 @@
 # Páginas del servicio
 
 ## QUIRÓFANO
-* [Manejo perioperatorio COVID-19 (31/03/2020)](https://drive.google.com/open?id=1Mvx-48YLnHTeCMPB2no63c3bhJDgrJ9R)
+* [Manejo perioperatorio COVID-19 (06/04/2020)](https://drive.google.com/open?id=18dPpJANUrwy1OA66GUh42a3KgU6nqpJC)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
-* [Algoritmo de decisión COVID-19 (19/03/2020)](docs/servicio/ALGORITMO__de_decision_COVID_19__en_paciente_quirúrgico.docx)
+* [Algoritmo de decisión COVID-19 (06/04/2020)](https://drive.google.com/open?id=1A3Oid8sPGOrEdRmnFd8ciqS5ZcZpoHS4)
 * [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1bVIhCMjYHXruLQqioDCZkTaZdWn4XJU9)
 
 ### **Colocación/Retirada de EPI** para ANESTESISTA, CIRCULANTE y CELADOR
@@ -17,18 +17,27 @@
   * [Retirada EPI estéril en qurófano (video)](https://youtu.be/Ne4Ajs5auGU)
 
 ## RADIOLOGÍA INTERVENCIONISTA
-  * [Check List EPI estéril Radiología intervencionista](https://drive.google.com/open?id=1jjVka6drIJmI4gEXQgbpVr6fwt410Cim)
-  * [Protocolo COVID-19 en Radiología Intervencionista](https://drive.google.com/open?id=1mkL5YXhpgbVDEqBmfL9OM-7RJIcznGFa)
+  * [Check List EPI estéril Radiología intervencionista (31-03-2020)](https://drive.google.com/open?id=1hykRq008m2vWYoTroytlbuOghjmcU3VH)
+  * [Protocolo COVID-19 en Radiología Intervencionista(31-03-2020](https://drive.google.com/open?id=1SiTljrhgf00NBIHmTGGgfCuJ68g-kTx4)
   * [Adaptación temporal de los criterios de tratamiento endovascular en pacientes con ictus isquémico agudo y sospecha o confirmación de COVID-19](https://drive.google.com/open?id=1caJQKOamMl776EUAORIhKP131d1yLXHH)
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 
 ## REANIMACIÓN
+### ORGANIZACIÓN
+  * [Circuitos REA2 (27/03/2020)](https://drive.google.com/open?id=1vAAzzKL-Df8DpRbol9MGNOpSI1QqhMke)
+  * [Instrucciones personal médico REA y COVID-19 (27/03/2020)](https://drive.google.com/open?id=1vvaf6-jVJJEsYgcHwmefcmtG6AAbaxCf)
+  * [Plano CMA reestructurada en Reanimación (27/03/2020)](https://drive.google.com/open?id=1PHs72TFM1kC_VEwL0r91cT3B8uuVQ3iq)
+  * [Reestructuración de la unidad de CMA como nueva unidad de reanimación (27/03/2020)](https://drive.google.com/open?id=1J9STp4BPYxPdeagXaLrIrRdRNITcPle5)
+  
+  * []()
 ### TÉCNICAS
   * [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
+  * [ECMO - Oxigenación por membrana extracorpórea (06/04/2020)](https://drive.google.com/open?id=1BBg0o7zpkBkhpxX2vTdfdJiuIQIqFT1J)
 
 ### CARDIOVASCULAR
   * [Cuidados postoperatorios CCA](https://drive.google.com/open?id=1zXF_FJRBkr2_3kET9IpbRaDOc5gxvpyu)
   * [Protocolo de Tromboembolismo pulmonar (TEP)](https://drive.google.com/open?id=1-FfWVx8Tw0PzVOAgFPZYCJq06iajsvNV)
+  * [Guía rápida de complicaciones tras la cirugía cardíaca (06/04/2020)](https://drive.google.com/open?id=1evmct-6_8SWg0n-hJ1b8z5PdFD1fDGaJ)
   
 ### NEUROCRÍTICOS
   * [Hipertensión intracraneal y monitorización de la PIC](https://drive.google.com/open?id=1nLTCo8QojBAfJnt6CutSY9Il31dbOtWb)
@@ -41,6 +50,10 @@
 ### GINECOLOGÍA Y OBSTETRICIA
   * [Manejo perioperatorio de gestante y COVID-19](https://drive.google.com/open?id=1fCQgKK5xKVFdOuRmq1mLCdVPw30qL_16https://drive.google.com/open?id=1fCQgKK5xKVFdOuRmq1mLCdVPw30qL_16)
 
+### DOCUMENTOS COVID-19
+  * [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19 (03/04/2020](https://drive.google.com/open?id=1NXr_gX3qjzcaXj5MkDQ7LCwQvrYPYSkF)
+  * [Protocolo decúbito prono en pacientes COVID-19 (03/04/2019)](https://drive.google.com/open?id=1ijPRy6ZOucgkl0mETQ1jhSyS5A_LzVSh)
+  
 ### OTROS
   * [Protocolo de manejo del gran quemado](https://drive.google.com/open?id=1kkQp65nL1dkyIpMJxeDRaZMJ0cwN7eq-)
 
