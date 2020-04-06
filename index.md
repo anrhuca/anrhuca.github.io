@@ -7,14 +7,15 @@ En esta página se recoge información que puede ser de interés, relacionada co
 * [Casos de COVID-19 en el mundo - Worldometer](https://www.worldometers.info/coronavirus/#countries)
 * [Situación de COVID-19 en España](https://covid19.isciii.es/)
 
-## NOVEDADES DEL 1/4/2020
+## NOVEDADES DEL 6/4/2020
 ### NUEVO
-  * Se ha incluido la codificación de los diagnósticos de: COVID-19 y Sospecha de COVID-19 en la historia clínica electrónica (Millennium)
+  * Se publica la nueva actualización sobre "Procedimientos de actuación frente al COVID-19 en Asturias" en Páginas gubernamentales.
+  * Se suma un nuevo artículo de JAMA en BIBLIOGRAFIA
+  * Dentro de la sección de REANIMACIÓN se crean 2 nuevos apartados:
+    * Se crea nueva sección: **ORGANIZACION** dentro de la que se incluyen las instrucciones al personal médico de las unidades así como la información sobre la reestructuración de la CMA como Reanimación y del nuevo circuito de la Reanimación 2 con el tratamiento de COVID-19.
+    * Se crea NUEVA SECCIÓN: **DOC COVID-19** en la que incluimos protocolos para el tratamiento específico de estos pacientes.
+  * Dentro de la sección de REANIMACIÓN se incluyen nuevos protocolos en los apartados de CARDIOVASCULAR (guia rápida tratamiento complicaciones cirugía cardíaca) y TECNICAS (ECMO).
 
-### MODIFICACIÓN:
-  * Protocolo COVID-19 en Neurología intervencionista
-  * Check List EPI estéril Radiología intervencionista
-  * Manejo perioperatorio COVID 19
 
 Haga clic [Aquí](novedades.md) para ver el historial de novedades.
 
