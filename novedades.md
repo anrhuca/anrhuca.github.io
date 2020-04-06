@@ -1,7 +1,7 @@
 # NOVEDADES
 
 ## 6/4/2020
-### NUEVO
+### NUEVO
   * Se publica la nueva actualización sobre "Procedimientos de actuación frente al COVID-19 en Asturias" en Páginas gubernamentales.
   * Se suma un nuevo artículo de JAMA en BIBLIOGRAFIA
   * Dentro de la sección de REANIMACIÓN se crean 2 nuevos apartados:
