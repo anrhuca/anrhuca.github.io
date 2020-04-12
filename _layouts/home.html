@@ -15,7 +15,7 @@ layout: default
       <li>
         {%- assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" -%}
         {%- assign m = post.date | date: "%-m" -%}
-        {{ post.date | date:"%-d" }} de 
+        {{ post.date | date:"%-d" }} de&nbsp;
         {%- case m -%}
           {%- when '1' -%}enero
           {%- when '2' -%}febrero
@@ -30,6 +30,7 @@ layout: default
           {%- when '11' -%}noviembre
           {%- when '12' -%}diciembre
         {%- endcase -%}
+        &nbsp;de
         {{ post.date | date: "%Y" }}
         </span>
 
