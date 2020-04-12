@@ -28,6 +28,8 @@ url: "http://anrhuca.es" # the base hostname & protocol for your site, e.g. http
 twitter_username: 
 github_username:  
 
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+
 # Build settings
 # Comento el tema, ya que utilizo un tema local
 # theme: jekyll-theme-cayman

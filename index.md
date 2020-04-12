@@ -1,3 +1,12 @@
+---
+#
+# Here you can change the text shown in the Home page before the Latest Posts section.
+#
+# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
 # Bienvenido a la página de ANR - HUCA
 
 En esta página se recoge información que puede ser de interés, relacionada con el servicio de Anestesia y Reanimación del HUCA.
