@@ -21,8 +21,7 @@
 title: anrhuca
 email: hola@anrhuca.es
 description: >- # this means to ignore newlines until "baseurl:"
-  Página del servicio de Anestesia y Reanimación 
-  del Hospital Universitario Central de Asturias (HUCA)
+  junt@s somos más fuertes  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://anrhuca.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
