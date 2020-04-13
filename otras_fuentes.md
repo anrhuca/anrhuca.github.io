@@ -1,3 +1,11 @@
+---
+layout: page
+title: Otras fuentes
+tagline: Otras fuentes de interés
+permalink: /otras_fuentes.html
+ref: otras_fuentes
+order: 3
+---
 # Páginas otras fuentes (Bibliografía)
 
 * [Video de prevención de infección en pacientes con coronavirus](https://www.youtube.com/watch?v=zh-0br7NrDY)

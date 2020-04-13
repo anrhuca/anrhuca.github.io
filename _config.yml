@@ -30,6 +30,8 @@ github_username:
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 
+google_analytics: "UA-163465902-1"
+
 # Build settings
 # Comento el tema, ya que utilizo un tema local
 # theme: jekyll-theme-cayman

@@ -1,3 +1,11 @@
+---
+layout: page
+title: Documentos gubernamentales
+tagline: Unas cuantas palabras sobre nuestro servicio
+permalink: /documentos_gubernamentales.html
+ref: gubernamentales
+order: 5
+---
 # Documentos Gubernamentales
 
 * [Página del Ministerio de Sanidad, Consumo y Bienestar Social relacionada con SARS-COV-2](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)

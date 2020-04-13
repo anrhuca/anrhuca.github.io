@@ -1,3 +1,11 @@
+---
+layout: page
+title: Servicio
+tagline: Páginas del servicio
+permalink: /paginas_servicio.html
+ref: servicio
+order: 1
+---
 # Páginas del servicio
 
 ## QUIRÓFANO
