@@ -6,7 +6,9 @@ permalink: /about.html
 ref: about
 order: 0
 ---
-Esta web está gestionada por el Servicio de Anestesia y Reanimación del HUCA.
+## Acerca de
+
+Esta web está gestionada por el Servicio de Anestesia y Reanimación del Hospital Universitario Central de Asturias (HUCA).
 
 
 [Volver a página de inicio]({{ '/' | absolute_url }})

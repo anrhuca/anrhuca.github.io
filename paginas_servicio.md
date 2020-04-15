@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Servicio
+title: Docs del Servicio
 tagline: Páginas del servicio
 permalink: /paginas_servicio.html
 ref: servicio
-order: 1
+order: 2
 ---
-# Páginas del servicio
+# Documentos del Servicio
 
 ## QUIRÓFANO
 * [Manejo perioperatorio COVID-19 (06/04/2020)](https://drive.google.com/open?id=18dPpJANUrwy1OA66GUh42a3KgU6nqpJC)
