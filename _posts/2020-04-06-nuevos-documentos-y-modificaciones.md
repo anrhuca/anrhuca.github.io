@@ -7,7 +7,7 @@ date:   2020-04-06 12:00:00 +0100p
 author: 
 meta: 
 ---
-Nuevos documentos y modificaciones de documentos.
+Nuevos documentos en la sección de reanimación y modificaciones de documentos en la sección de quirófano y radiología intervencionista.
 <!--more-->
 ### NUEVO
   * Se publica la nueva actualización sobre "Procedimientos de actuación frente al COVID-19 en Asturias" en Páginas gubernamentales.
@@ -17,7 +17,7 @@ Nuevos documentos y modificaciones de documentos.
     * Se crea NUEVA SECCIÓN: **DOC COVID-19** en la que incluimos protocolos para el tratamiento específico de estos pacientes.
   * Dentro de la sección de REANIMACIÓN se incluyen nuevos protocolos en los apartados de CARDIOVASCULAR (guia rápida tratamiento complicaciones cirugía cardíaca) y TECNICAS (ECMO).
 
-## MODIFICACIONES
+### MODIFICACIONES
   * En QUIROFANO:
     * Actualización del ALGORITMO de decisión COVID-19
     * Actualización archivo de Manejo perioperatorio COVID-19

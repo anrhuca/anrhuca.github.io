@@ -16,3 +16,4 @@ order: 3
 * [Plan de contingencia COVID-19 \(SESPA)](docs/Plan_Contingencia_COVID19_170320 Servicio Salud Principado Asturias.pdf)
 * [Indicaciones para el uso de mascarillas en condiciones de restricción por COVID-19](docs/gubernamentales/COVID_19_MASCARILLAS_20200316_Ed1-MPSP.pdf)
 * [Transfusión en pacientes positivos COVID-19](docs/gubernamentales/COVID_IT_TransfusionesHematología (1).pdf)
+* [Buenas prácticas en los centros de trabajo - Medidas para la prevención de contagios del COVID-19 (Ministerio de Sanidad) 11-04-2020](https://drive.google.com/open?id=1r9wiHkdQFdegWkpkhwAUyoL3NLmuOYDP)

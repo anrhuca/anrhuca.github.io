@@ -13,6 +13,7 @@ order: 2
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
 * [Algoritmo de decisión COVID-19 (06/04/2020)](https://drive.google.com/open?id=1A3Oid8sPGOrEdRmnFd8ciqS5ZcZpoHS4)
 * [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1bVIhCMjYHXruLQqioDCZkTaZdWn4XJU9)
+* [Circuitos de bloques quirúrgicos 1 y 2 COVID-19](https://drive.google.com/open?id=1-Ljb_zI7ILKKmP6RvgmSeP1HjKO_MY9l)
 
 ### **Colocación/Retirada de EPI** para ANESTESISTA, CIRCULANTE y CELADOR
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
@@ -36,8 +37,7 @@ order: 2
   * [Instrucciones personal médico REA y COVID-19 (27/03/2020)](https://drive.google.com/open?id=1vvaf6-jVJJEsYgcHwmefcmtG6AAbaxCf)
   * [Plano CMA reestructurada en Reanimación (27/03/2020)](https://drive.google.com/open?id=1PHs72TFM1kC_VEwL0r91cT3B8uuVQ3iq)
   * [Reestructuración de la unidad de CMA como nueva unidad de reanimación (27/03/2020)](https://drive.google.com/open?id=1J9STp4BPYxPdeagXaLrIrRdRNITcPle5)
-  
-  * []()
+
 ### TÉCNICAS
   * [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
   * [ECMO - Oxigenación por membrana extracorpórea (06/04/2020)](https://drive.google.com/open?id=1BBg0o7zpkBkhpxX2vTdfdJiuIQIqFT1J)

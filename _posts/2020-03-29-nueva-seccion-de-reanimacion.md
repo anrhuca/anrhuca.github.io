@@ -9,9 +9,10 @@ meta:
 ---
 Nueva sección de reanimación y nuevos documentos de pacientes neurocríticos.
 <!--more-->
-## Noticias
+### NOTICIAS
 
 Se crea la sección REANIMACIÓN con el fin de incluir protocolos de actuación consensuados en el Servicio.
 
-## Documentación
+### DOCUMENTACIÓN
+
 Hoy se incorporan varios para el tratamiento de pacientes neurocríticos así como protocolo de TRRC.

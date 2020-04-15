@@ -1,5 +1,5 @@
 ---
-title:  Nuevos documentos en Reanimación
+title:  Nuevos documentos en la sección de Reanimación
 tagline: 
 categories: 
 image: 

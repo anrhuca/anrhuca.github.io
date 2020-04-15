@@ -20,7 +20,7 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 {% include ultima-novedad.html %}
 
-Haga clic [Aquí](novedades.md) para ver el historial de novedades.
+Haga clic [Aquí](novedades.html) para ver el historial de novedades.
 
 ## PÁGINAS DEL SERVICIO
 
