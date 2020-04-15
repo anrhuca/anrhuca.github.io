@@ -1,7 +1,7 @@
 ---
 title: Inclusión de nuevo Powerplan para COVID-19
 tagline: 
-categories: noticia, millennium
+categories: [millennium]
 image: /thumbnail-mobile.png
 date:   2020-03-16 12:00:00 +0100p
 author: 

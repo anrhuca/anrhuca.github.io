@@ -1,7 +1,7 @@
 ---
 title: Nuevo documento de actuación frente a COVID-19 y documentos
 tagline: 
-categories: 
+categories: [documentación, documentacion servicio]
 image: 
 date:   2020-04-06 12:00:00 +0100p
 author: 

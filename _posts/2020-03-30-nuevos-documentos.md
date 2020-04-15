@@ -1,7 +1,7 @@
 ---
 title:  Nuevos documentos en la sección de Reanimación
 tagline: 
-categories: 
+categories: [documentación servicio]
 image: 
 date:   2020-03-30 12:00:00 +0100p
 author: 

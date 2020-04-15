@@ -1,7 +1,7 @@
 ---
 title: Recomendaciones ante la sospecha de clínica de COVID-19 y cambios en documentación 
 tagline: 
-categories: novedades
+categories: [documentación]
 image: /thumbnail-mobile.png
 date:   2020-03-19 12:00:00 +0100p
 author: 
