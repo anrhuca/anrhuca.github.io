@@ -12,6 +12,7 @@ layout: home
 En esta página se recoge información que puede ser de interés, relacionada con el Servicio de Anestesia y Reanimación del Hospital Universitario Central de Asturias (HUCA).
 
 ![](/assets/img/anrhuca_web_ILUSTRACOVID.png)
+[Vector de Personas creado por freepik - www.freepik.es](https://www.freepik.es/fotos-vectores-gratis/personas)
 
 ## SITUACIÓN ACTUAL DE LA COVID-19
 * [Coronavirus COVID-19 Global Cases by the CSSE) at Johns Hopkins Univeristy (JHU)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
