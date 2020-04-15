@@ -41,13 +41,14 @@
     .page-link {
       color: $text-color;
       line-height: $base-line-height;
+      border-right: 2px solid #a2d9ce;
+      margin-right: 30px;
+      padding-right: 10px;
   
       // Gaps between nav items, but not on the last one
-      &:not(:last-child) {
-        margin-right: 30px;
-        border-right: 2px solid #a2b9ce;
-        padding-right: 10px;
-      }
+      /*&:not(:last-child) {
+
+      }*/
     }
   
     @include media-query($on-palm) {
@@ -102,7 +103,7 @@
   
         &:last-child {
           margin-bottom: 10px;
-          margin-right: 20px;
+          margin-right: 10px;
         }
         margin-right: 10px;
         margin-left: 10px;

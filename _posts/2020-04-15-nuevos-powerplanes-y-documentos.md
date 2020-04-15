@@ -1,7 +1,7 @@
 ---
 title: Nuevos powerplanes postoperatorio, indicaciones serología y documentos
 tagline: 
-categories: [noticias, millennium]
+categories: noticias millennium
 image: 
 date:   2020-04-15 12:00:00 +0100p
 author: 

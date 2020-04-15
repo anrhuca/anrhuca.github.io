@@ -1,37 +1,21 @@
 <div>
-<ul class="post-list">
- {%- for post in site.posts limit:1 -%}
-	<li>
-		<span>{%- assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" -%}
-			{%- assign m = post.date | date: "%-m" -%}
-				{{ post.date | date:"%-d" }} de&nbsp;
-        {%- case m -%}
-          {%- when '1' -%}enero
-          {%- when '2' -%}febrero
-          {%- when '3' -%}marzo
-          {%- when '4' -%}abril
-          {%- when '5' -%}mayo
-          {%- when '6' -%}junio
-          {%- when '7' -%}julio
-          {%- when '8' -%}agosto
-          {%- when '9' -%}septiembre
-          {%- when '10' -%}octubre
-          {%- when '11' -%}noviembre
-          {%- when '12' -%}diciembre
-        {%- endcase -%}
-        &nbsp;de
-        {{ post.date | date: "%Y" }}
-				</span>
+	<ul class="post-list">
+		{%- for post in site.posts limit:1 -%}
+		<li>
+			<span>
+				{% assign date_format = site.cayman-blog.date_format | default: "%-d %b, %Y" %}
+				{% include translated_date.html date=post.date format=date_format lang="es"%}
+			</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-        </h2>
+			<h2>
+				<a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+			</h2>
 
-        <div>
-          <!--{{ post.excerpt | markdownify | truncatewords: 30 }}-->
-          {{ post.excerpt }}
-        </div>
-      </li>
-    {%- endfor -%}
-  </ul>
+			<div>
+				<!--{{ post.excerpt | markdownify | truncatewords: 30 }}-->
+				{{ post.excerpt }}
+			</div>
+		</li>
+		{%- endfor -%}
+	</ul>
 </div>

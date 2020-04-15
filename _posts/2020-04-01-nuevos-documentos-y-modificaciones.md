@@ -1,7 +1,7 @@
 ---
 title: Codificación de COVID en Millennium
 tagline: 
-categories: [millennium, documentación servicio]
+categories: millennium servicio
 image: 
 date:   2020-04-01 12:00:00 +0100p
 author: 

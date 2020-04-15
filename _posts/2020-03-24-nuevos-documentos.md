@@ -1,7 +1,7 @@
 ---
 title: Nuevos documentos y videos explicativos colocación y retirada de EPI
 tagline: 
-categories: [documentación, videos]
+categories: documentación videos
 image: 
 date:   2020-03-24 12:00:00 +0100p
 author: 

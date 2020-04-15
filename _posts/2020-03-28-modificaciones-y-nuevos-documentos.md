@@ -1,7 +1,7 @@
 ---
 title: Manejo perioperatorio COVID-19 y protocolo clínico de tratamiento pacientes con SDRA
 tagline: 
-categories: [documentación]
+categories: documentación
 image: 
 date:   2020-03-28 12:00:00 +0100p
 author: 

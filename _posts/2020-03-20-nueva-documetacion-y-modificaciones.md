@@ -1,7 +1,7 @@
 ---
 title: Novedades protocolo intraoperatorio COVID, algoritmo de decisión COVID, transfusión y uso de mascarillas.
 tagline: 
-categories: [documentación]
+categories: documentación
 image: /thumbnail-mobile.png
 date:   2020-03-20 12:00:00 +0100p
 author: 

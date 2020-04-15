@@ -2,7 +2,7 @@
 layout: post
 title: Nueva linea de teléfono específica para COVID-19
 tagline: "Nueva linea habilitada"
-categories: [noticias]
+categories: noticias
 image: /thumbnail-mobile.png
 date:   2020-03-13 12:00:00 +0100p
 author: 

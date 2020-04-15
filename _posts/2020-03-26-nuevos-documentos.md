@@ -1,7 +1,7 @@
 ---
 title: Nuevo documento de tratamiento endovascular en pacientes con ictus y COVID-19
 tagline: 
-categories: [documentación]
+categories: documentación
 image: 
 date:   2020-03-26 12:00:00 +0100p
 author: 

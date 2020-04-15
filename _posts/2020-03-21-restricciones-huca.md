@@ -1,7 +1,7 @@
 ---
 title: Restricciones en acceso a HUCA y novedades en documentos
 tagline: 
-categories: [noticias, documentación]
+categories: noticias documentación
 image: 
 date:   2020-03-21 12:00:00 +0100p
 author: 

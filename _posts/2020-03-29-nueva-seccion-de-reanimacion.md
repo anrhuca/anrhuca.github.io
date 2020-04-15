@@ -1,7 +1,7 @@
 ---
 title: Nueva sección de Reanimación
 tagline: 
-categories: [noticias, documentación]
+categories: noticias documentación
 image: 
 date:   2020-03-29 12:00:00 +0100p
 author: 

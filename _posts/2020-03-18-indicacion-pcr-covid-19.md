@@ -1,7 +1,7 @@
 ---
 title: Agilización de la recepción de resultados COVID-19
 tagline: 
-categories: [millennium]
+categories: millennium
 image: /thumbnail-mobile.png
 date:   2020-03-18 12:00:00 +0100p
 author: 
