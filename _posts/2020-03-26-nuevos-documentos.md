@@ -1,5 +1,5 @@
 ---
-title: 
+title: Nuevo documento de tratamiento endovascular en pacientes con ictus y COVID-19
 tagline: 
 categories: 
 image: 
@@ -7,9 +7,7 @@ date:   2020-03-26 12:00:00 +0100p
 author: 
 meta: 
 ---
-Nuevos documentos relacionados con el tratamiento endovascular en pacientes con icuts.
-
-Nuevo enlace a Elsevier.
+Nuevos documentos relacionados con el tratamiento endovascular en pacientes con icuts del Servicio de Neurología y nuevos recursos bibliográficos.
 <!--more-->
 ## Documentación
 ### NUEVO
