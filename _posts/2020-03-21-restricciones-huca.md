@@ -1,7 +1,7 @@
 ---
 title: Restricciones en acceso a HUCA y novedades en documentos
 tagline: 
-categories: noticias documentación
+categories: [noticias, documentación]
 image: 
 date:   2020-03-21 12:00:00 +0100p
 author: 
@@ -11,7 +11,7 @@ Se comunican nuevas restricciones de acceso al HUCA. Cambios en la documentació
 <!--more-->
 ### Restricciones en el acceso al HUCA
 
-**HUCA** :Se comunica que no se permiten las visitas de familiares a los pacientes. La entrada
+**HUCA**: Se comunica que no se permiten las visitas de familiares a los pacientes. La entrada
 al HUCA sólo se permite por la puerta de hospitalización llamando al timbre.
 
 ## Documentación
