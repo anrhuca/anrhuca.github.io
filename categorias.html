@@ -6,17 +6,22 @@ title: Categorías
 
 
 <div id="archives">
-{% for category in site.categories %}
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugify }}"></div>
+    <!--<div id="#{{ category_name | slugify }}"></div>-->
     <p></p>
 
     <h3 class="category-head">{{ category_name | slugify | capitalize }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
+    <a name="{{ category_name }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      <h4><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.cayman-blog.date_format | default: "%-d %b, %Y" %}
+        {% include translated_date.html date=post.date format=date_format lang="es"%}: 
+      </time>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
   </div>
