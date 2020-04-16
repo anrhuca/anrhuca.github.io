@@ -24,7 +24,7 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 {% include ultima-novedad.html %}
 
-Haga clic [Aquí](novedades.html) para ver el historial de novedades.
+Haga clic [Aquí](novedades) para ver el historial de novedades.
 
 # **Documentos del servicio**
 

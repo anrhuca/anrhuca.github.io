@@ -33,11 +33,16 @@ google_analytics: "UA-163465902-1"
 
 permalink: /:categories/:title/
 
+paginate: 6
+paginate_path: /novedades/page:num/
+
+
 # Build settings
 # Comento el tema, ya que utilizo un tema local
 # theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
