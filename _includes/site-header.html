@@ -29,7 +29,11 @@
             {% if my_page.title %}
               {% if my_page.title contains "404" %}
               {% else %}
-                <a class="page-link" href="{{ my_page.url | absolute_url }}">{{ my_page.title | escape }}</a>
+                {% if page.url == my_page.url %}
+                  <a class="page-link current" href="{{ my_page.url | absolute_url }}">{{ my_page.title | escape }}</a>
+                {% else %}
+                  <a class="page-link" href="{{ my_page.url | absolute_url }}">{{ my_page.title | escape }}</a>
+                {% endif %}
               {% endif %}
             {% endif %}
           {% endfor %}
