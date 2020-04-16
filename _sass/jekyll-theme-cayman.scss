@@ -237,7 +237,7 @@ a {
 
   .img_foot {
     font-size: 10px;
-    color: #9eabb1;
+    color: #afb0bb;
     text-decoration: none;
     float: right;
   }
@@ -248,10 +248,14 @@ a {
   h4,
   h5,
   h6 {
-    margin-top: 2rem;
+    margin-top: 4rem;
     margin-bottom: 1rem;
-    font-weight: normal;
+    font-weight: bold;
     color: $section-headings-color;
+  }
+
+  .titulo-principal {
+    color: #a2d9ce;
   }
 
   p {
