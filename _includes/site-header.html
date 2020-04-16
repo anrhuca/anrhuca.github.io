@@ -1,7 +1,7 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
-    {% assign default_refs = site.pages | sort:"order" | map: "ref" %}
+    {% assign default_refs = site.pages | sort:"order" | map: "ref" | uniq %}
     {% assign page_refs = site.header_page_refs | default: default_refs %}
 
     {% if (page.layout != 'home' && page.layout == 'home') %}
