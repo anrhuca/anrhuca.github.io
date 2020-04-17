@@ -2,7 +2,7 @@
 layout: page
 title: Acerca de
 tagline: Unas cuantas palabras sobre nuestro servicio
-permalink: /about.html
+permalink: /about/
 ref: about
 order: 0
 ---

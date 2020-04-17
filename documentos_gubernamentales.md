@@ -2,7 +2,7 @@
 layout: page
 title: Docs gubernamentales
 tagline: Unas cuantas palabras sobre nuestro servicio
-permalink: /documentos_gubernamentales.html
+permalink: /documentos_gubernamentales/
 ref: gubernamentales
 order: 3
 ---

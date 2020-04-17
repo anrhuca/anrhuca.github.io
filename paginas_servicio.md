@@ -2,7 +2,7 @@
 layout: page
 title: Docs del Servicio
 tagline: Páginas del servicio
-permalink: /paginas_servicio.html
+permalink: /paginas_servicio/
 ref: servicio
 order: 2
 ---

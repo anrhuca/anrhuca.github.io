@@ -2,7 +2,7 @@
 layout: page
 title: Bibliografía
 tagline: Otras fuentes de interés
-permalink: /otras_fuentes.html
+permalink: /otras_fuentes/
 ref: otras_fuentes
 order: 4
 ---
