@@ -21,3 +21,5 @@ se incorporará de forma progresiva la información de mayor interés para el Se
 Iniciamos contenido con los documentos sobre el uso del programa de Anestesia EXT
 * En Doc. gubernamentales se incorporan las dos últimas actualizaciones:
 Procedimientos COVID 19 Asturias y Propuesta realización de pruebas COVID 19
+
+![Un rayo de esperanza](/assets/img/arcoiris_sobre_HUCA.jpeg)
