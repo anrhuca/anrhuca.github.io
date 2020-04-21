@@ -3,7 +3,7 @@ title: Actualización de algoritmo de decisión, manejo perioperatorio. Nuevas t
 tagline: 
 categories: documentacion servicio millennium
 image: 
-date:   2020-03-19 12:00:00 +0100p
+date:   2020-04-21 12:00:00 +0100p
 author: 
 meta: 
 ---
