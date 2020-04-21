@@ -41,7 +41,7 @@ order: 2
 ### TÉCNICAS
   * [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
   * [ECMO - Oxigenación por membrana extracorpórea (06/04/2020)](https://drive.google.com/open?id=1BBg0o7zpkBkhpxX2vTdfdJiuIQIqFT1J)
-  * [Balón de contrapulsación intraaórtico](https://drive.google.com/open?id=1KfFfyccWejBxYWMQo1THLdsIaooXNuQ5)
+  * [Balón de contrapulsación intraaórtico (abril 2020)](https://drive.google.com/open?id=1KfFfyccWejBxYWMQo1THLdsIaooXNuQ5)
 
 ### CARDIOVASCULAR
   * [Cuidados postoperatorios CCA](https://drive.google.com/open?id=1zXF_FJRBkr2_3kET9IpbRaDOc5gxvpyu)
