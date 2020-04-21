@@ -9,9 +9,9 @@ order: 2
 # Documentos del Servicio
 
 ## QUIRÓFANO
-* [Manejo perioperatorio COVID-19 (06/04/2020)](https://drive.google.com/open?id=18dPpJANUrwy1OA66GUh42a3KgU6nqpJC)
+* [Manejo perioperatorio COVID-19 (21/04/2020)](https://drive.google.com/open?id=1xOd71qoMVksNFs2mVernSaw4pjsjIQzU)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
-* [Algoritmo de decisión COVID-19 (06/04/2020)](https://drive.google.com/open?id=1A3Oid8sPGOrEdRmnFd8ciqS5ZcZpoHS4)
+* [Algoritmo de decisión COVID-19 (21/04/2020)](https://drive.google.com/open?id=1Q3d4e5OTJNIABx3x33vavHCyhDWoGSxo)
 * [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1bVIhCMjYHXruLQqioDCZkTaZdWn4XJU9)
 * [Circuitos de bloques quirúrgicos 1 y 2 COVID-19](https://drive.google.com/open?id=1-Ljb_zI7ILKKmP6RvgmSeP1HjKO_MY9l)
 
@@ -68,3 +68,12 @@ order: 2
 ## POSTOPERATORIO Planificación
   * [Protocolo de petición de cama en Postoperatorio](docs/POSTOPERATORO_protocolo_peticion_cama.docx)
   * [Plan de contingencia de Postoperatorio](https://drive.google.com/open?id=1hXh9hNBIF2Qym_J4q1NesUzMPFYF196r)
+  
+## MANEJO DE LA HISTORIA CLÍNICA ELECTRÓNICA (MILLENNIUM)
+### Programa de Anestesia
+  * [Configuración de la BANDA DEMOGRÁFICA](https://drive.google.com/open?id=1XAM87j9rE5LspA4f9sURdjS036ttgAjk)
+  * [Desbloquear historia de anestesia](https://drive.google.com/open?id=1whqSDYsVv_e4Zs2Z1UVhJsfqA9VzJAvH)
+  * [Guía Programa Anestesia](https://drive.google.com/open?id=1CX8t9CSOWdIs1-w5jm7u3ZzI7-YGpueZ)
+  * [Macros](https://drive.google.com/open?id=1nSPhslpYMqD4KFCWLMvKhNxzy1n2OzO1)
+  * [Perfusiones, cambio y pausa de perfusión](https://drive.google.com/open?id=1fbVuaQAbKe7EfhXqmUYoAohOyY3R-Y8L)
+  * [Volcado de datos anestesia Externos](https://drive.google.com/open?id=1_WkhsojuAoBTSmGhcPdDnb5jh2x4LEL6)
