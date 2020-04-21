@@ -22,4 +22,4 @@ Iniciamos contenido con los documentos sobre el uso del programa de Anestesia EX
 * En Doc. gubernamentales se incorporan las dos últimas actualizaciones:
 Procedimientos COVID 19 Asturias y Propuesta realización de pruebas COVID 19
 
-<img width="350px" src="/assets/img/arcoiris_sobre_HUCA.jpeg" alt="Todo va a salir bien"/>
+<p style="text-align: center"><img width="350px" src="/assets/img/arcoiris_sobre_HUCA.jpeg" alt="Todo va a salir bien"/></p>
