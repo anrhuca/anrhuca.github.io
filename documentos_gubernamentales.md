@@ -16,6 +16,6 @@ order: 3
 * [Video de colocación EPI](https://www.youtube.com/watch?v=jjaJYRolrJo&feature=youtu.be)
 * [Manejo clínico de pacientes con enfermedad por COVID-19](docs/Manejo-clínico-de-pacientes-con-enfermedad-por-COVID-19-MINISTERIO-SANIDA-pdf.pdf)
 * [Plan de contingencia COVID-19 \(SESPA)](docs/Plan_Contingencia_COVID19_170320 Servicio Salud Principado Asturias.pdf)
-* [Indicaciones para el uso de mascarillas en condiciones de restricción por COVID-19](docs/gubernamentales/COVID_19_MASCARILLAS_20200316_Ed1-MPSP.pdf)
-* [Transfusión en pacientes positivos COVID-19](docs/gubernamentales/COVID_IT_TransfusionesHematología (1).pdf)
+* [Recomendaciones de uso de mascarillas de ámbito comunitario (20-04-2020)](https://drive.google.com/open?id=1T5ZR-LivtEqmOe9xWDrfb1_E_5Ed4nBx)
+* [Transfusión en pacientes positivos COVID-19](https://drive.google.com/open?id=1D4zZTxzPPq24_f2e0uYmTTKoK-MtY2b2)
 * [Buenas prácticas en los centros de trabajo - Medidas para la prevención de contagios del COVID-19 (Ministerio de Sanidad) 11-04-2020](https://drive.google.com/open?id=1r9wiHkdQFdegWkpkhwAUyoL3NLmuOYDP)
