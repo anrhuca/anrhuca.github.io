@@ -8,7 +8,7 @@ order: 3
 ---
 # Documentos Gubernamentales
 
-* [Página del Ministerio de Sanidad, Consumo y Bienestar Social relacionada con SARS-COV-2](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)
+* [Página del Ministerio de Sanidad, Consumo y Bienestar Social relacionada con SARS-COV-2](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm){:target="_blank"}
   * Incluye: [Situación actual](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm), [Documentos técnicos para profesionales](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos.htm), [Información para la ciudadanía](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/ciudadania.htm) y [Notas para prensa](https://www.mscbs.gob.es/profesionales/cargarNotas.do)
 * [Astursalud: Información sobre el COVID-19 para profesionales](https://www.astursalud.es/en/noticias/-/noticias/procedimiento-de-actuacion-ante-sospechas-de-caso-de-infeccion-por-el-nuevo-coronavirus-2019-ncov-en-asturias)
   * [Astursalud: Procedimiento de actuación ante sospechas de caso de infección por el nuevo coronavirus SARS-CoV-2 (COVID-19) (15/04/2020)](https://www.astursalud.es/documents/31867/973133/Procedimiento+COVID-19_Asturias_General.pdf/b428ca7a-55bf-7029-28e5-cbfdd6947c2a)
