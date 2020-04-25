@@ -11,8 +11,8 @@ order: 2
 ## QUIRÓFANO
 * [Manejo perioperatorio COVID-19 (21/04/2020)](https://drive.google.com/open?id=1xOd71qoMVksNFs2mVernSaw4pjsjIQzU)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
-* [Algoritmo de decisión COVID-19 (21/04/2020)](https://drive.google.com/open?id=1Q3d4e5OTJNIABx3x33vavHCyhDWoGSxo)
-* [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1bVIhCMjYHXruLQqioDCZkTaZdWn4XJU9)
+* [Algoritmo de decisión COVID-19 (21/04/2020)](https://drive.google.com/open?id=1r71jCsRsw3WrhD7UJHfcaOWCZb0mx_PY)
+* [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1t_n1Zu8BQQ34ThKyyM6otLCB0tlLIEXs)
 * [Circuitos de bloques quirúrgicos 1 y 2 COVID-19](https://drive.google.com/open?id=1-Ljb_zI7ILKKmP6RvgmSeP1HjKO_MY9l)
 
 ### **Colocación/Retirada de EPI** para ANESTESISTA, CIRCULANTE y CELADOR
