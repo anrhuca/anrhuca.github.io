@@ -1,7 +1,7 @@
 ---
 title: Actualización de algoritmo de decisión, manejo perioperatorio. Nuevas técnicas y documentos gubernamentales
 tagline: 
-categories: documentacion servicio millennium
+categories: documentación servicio millennium
 image: 
 date:   2020-04-21 12:00:00 +0100p
 author: 

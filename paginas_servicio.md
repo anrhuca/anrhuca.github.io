@@ -62,6 +62,7 @@ order: 2
 ### DOCUMENTOS COVID-19
   * [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19 (03/04/2020](https://drive.google.com/open?id=1NXr_gX3qjzcaXj5MkDQ7LCwQvrYPYSkF)
   * [Protocolo decúbito prono en pacientes COVID-19 (03/04/2019)](https://drive.google.com/open?id=1ijPRy6ZOucgkl0mETQ1jhSyS5A_LzVSh)
+  * [Tratamiento de aspergilosis en pacientes con COVID-19](https://drive.google.com/open?id=128TrbYelfP051p6BBsl6M1SOkSd7witR)
   
 ### OTROS
   * [Protocolo de manejo del gran quemado](https://drive.google.com/open?id=1kkQp65nL1dkyIpMJxeDRaZMJ0cwN7eq-)
