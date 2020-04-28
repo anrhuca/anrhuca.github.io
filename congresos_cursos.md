@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Congresos y cursos
+title: Congresos&nbsp;y&nbsp;cursos
 tagline: Congresos y cursos
 permalink: /congresos_cursos/
 ref: congresos_cursos
