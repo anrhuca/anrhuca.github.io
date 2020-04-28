@@ -37,3 +37,7 @@ Haga clic [Aquí](documentos_gubernamentales.md) para acceder a documentos guber
 # **Bibliografía y otras fuentes**
 
 Haga clic [Aquí](otras_fuentes.md) para acceder a fuentes bibliográficas relacionadas con COVID-19.
+
+# **Cursos y congresos**
+
+Haga click [Aquí](congresos_cursos.md) para acceder a Congresos y cursos.
