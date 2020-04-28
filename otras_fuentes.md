@@ -6,7 +6,7 @@ permalink: /otras_fuentes/
 ref: otras_fuentes
 order: 5
 ---
-# Páginas otras fuentes (Bibliografía)
+# Páginas de otras fuentes (Bibliografía)
 
 * [Video de prevención de infección en pacientes con coronavirus (Hosp. Valdecilla)](https://www.youtube.com/watch?v=zh-0br7NrDY)
 * [Artículos NEJM relacionados con COVID-19](https://www.nejm.org/coronavirus?cid=DM88311&bid=165326853)

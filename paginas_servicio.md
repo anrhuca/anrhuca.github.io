@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docs del Servicio
+title: Docs&nbsp;del&nbsp;Servicio
 tagline: Páginas del servicio
 permalink: /paginas_servicio/
 ref: servicio
