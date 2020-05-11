@@ -35,9 +35,10 @@ order: 2
 ### ORGANIZACIÓN
   * [Circuitos REA2 (27/03/2020)](https://drive.google.com/open?id=1vAAzzKL-Df8DpRbol9MGNOpSI1QqhMke)
   * [Instrucciones personal médico REA y COVID-19 (27/03/2020)](https://drive.google.com/open?id=1vvaf6-jVJJEsYgcHwmefcmtG6AAbaxCf)
+  <!--
   * [Plano CMA reestructurada en Reanimación (27/03/2020)](https://drive.google.com/open?id=1PHs72TFM1kC_VEwL0r91cT3B8uuVQ3iq)
   * [Reestructuración de la unidad de CMA como nueva unidad de reanimación (27/03/2020)](https://drive.google.com/open?id=1J9STp4BPYxPdeagXaLrIrRdRNITcPle5)
-
+-->
 ### TÉCNICAS
   * [Protocolo TRRC2-HDFVVC](https://drive.google.com/open?id=1GbMuLr06utrG-yH__TUAVzmxihlrtn4y)
   * [ECMO - Oxigenación por membrana extracorpórea (06/04/2020)](https://drive.google.com/open?id=1BBg0o7zpkBkhpxX2vTdfdJiuIQIqFT1J)
