@@ -70,6 +70,9 @@ order: 2
   * [Plan de contingencia de Postoperatorio](https://drive.google.com/open?id=1YSVBuM3xnS3A9ddduGpHtnxnb8ExV5Zg)
   
 ## MANEJO DE LA HISTORIA CLÍNICA ELECTRÓNICA (MILLENNIUM)
+### Historia clínica
+  * [Receta electrónica hospitalaria en Millennium (Polaris)](https://polaris.sespa.es/hucaSespa/course/view.php?id=51#section-6)
+  
 ### Programa de Anestesia
   * [Configuración de la BANDA DEMOGRÁFICA](https://drive.google.com/open?id=1XAM87j9rE5LspA4f9sURdjS036ttgAjk)
   * [Desbloquear historia de anestesia](https://drive.google.com/open?id=1whqSDYsVv_e4Zs2Z1UVhJsfqA9VzJAvH)
@@ -77,4 +80,4 @@ order: 2
   * [Macros](https://drive.google.com/open?id=1nSPhslpYMqD4KFCWLMvKhNxzy1n2OzO1)
   * [Perfusiones, cambio y pausa de perfusión](https://drive.google.com/open?id=1fbVuaQAbKe7EfhXqmUYoAohOyY3R-Y8L)
   * [Volcado de datos anestesia Externos](https://drive.google.com/open?id=1_WkhsojuAoBTSmGhcPdDnb5jh2x4LEL6)
-  * [Receta electrónica hospitalaria en Millennium (Polaris)](https://polaris.sespa.es/hucaSespa/course/view.php?id=51#section-6)
+  
