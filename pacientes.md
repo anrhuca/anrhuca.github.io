@@ -6,7 +6,7 @@ permalink: /pacientes/
 ref: pacientes
 order: 2
 ---
-# Documentos de información al paciente
+# Preanestesia
 
 * [Consentimiento informado para el acto anestésico](https://drive.google.com/file/d/1HNof0zM7ZiNPNAdl6Ijha-iZ5AuqnZ8f/view?usp=sharing)
 * [Información a los padres sobre la anestesia de su hijo/a para la Resonancia o TC](https://drive.google.com/file/d/1UW-hVYx4ZbN2_VxJr3E7I95wlvfdZ6Mf/view?usp=sharing)
