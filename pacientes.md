@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Información para el paciente
+title: Información para pacientes
 tagline: Información para pacientes
 permalink: /pacientes/
 ref: pacientes
