@@ -13,6 +13,9 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 <p style="margin-bottom: 60px; margin-top:60px"><img src="/assets/img/anrhuca_web_ILUSTRACOVID.png"/><a class="img_foot" href="https://www.freepik.es/fotos-vectores-gratis/personas">Ilustración realizada a partir de 2 recursos de www.freepik.es</a></p>
 
+# **Información para el paciente**
+
+Haga clic [Aquí](pacientes) para acceder a la documentación de información dirigida a los pacientes.
 
 # **Situación actual de la COVID-19**
 
