@@ -15,7 +15,7 @@ En esta página se recoge información que puede ser de interés, relacionada co
 
 # **Información para el paciente**
 
-Haga clic [Aquí](pacientes) para acceder a la documentación de información dirigida a los pacientes.
+Haga clic [Aquí](pacientes.md) para acceder a la documentación de información dirigida a los pacientes.
 
 # **Situación actual de la COVID-19**
 
