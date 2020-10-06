@@ -11,7 +11,12 @@ layout: home
 
 En esta página se recoge información que puede ser de interés, relacionada con el Servicio de Anestesia y Reanimación del Hospital Universitario Central de Asturias (HUCA).
 
-<p style="margin-bottom: 60px; margin-top:60px"><img src="/assets/img/anrhuca_web_ILUSTRACOVID.png"/><a class="img_foot" href="https://www.freepik.es/fotos-vectores-gratis/personas">Ilustración realizada a partir de 2 recursos de www.freepik.es</a></p>
+<!--<p style="margin-bottom: 60px; margin-top:60px"><img src="/assets/img/anrhuca_web_ILUSTRACOVID.png"/><a class="img_foot" href="https://www.freepik.es/fotos-vectores-gratis/personas">Ilustración realizada a partir de 2 recursos de www.freepik.es</a></p>-->
+
+<p style="margin-bottom: 60px; margin-top:60px"><img src="/assets/img/anrhuca_web_ILUSTRA_sedare1.png"/></p>
+
+
+
 
 # **Información para el paciente**
 
