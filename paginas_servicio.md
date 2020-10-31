@@ -58,7 +58,7 @@ order: 2
   * [Manejo perioperatorio de gestante y COVID-19](https://drive.google.com/open?id=1BuuMU_-emetKYazj1k1cSHml078pJ_uO)
 
 ### DOCUMENTOS COVID-19
-  * [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19 (03/04/2020](https://drive.google.com/open?id=1NXr_gX3qjzcaXj5MkDQ7LCwQvrYPYSkF)
+  * [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19 (31/10/2020)](https://drive.google.com/file/d/1I87soAdq_cd_ogtagN5LAvcolplxtJka/view?usp=sharing)
   * [Protocolo decúbito prono en pacientes COVID-19 (03/04/2019)](https://drive.google.com/open?id=11syA0vuCuXNCuE9XON8HJeOC5gTEjfMB)
   * [Tratamiento de aspergilosis en pacientes con COVID-19](https://drive.google.com/open?id=128TrbYelfP051p6BBsl6M1SOkSd7witR)
   
