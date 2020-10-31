@@ -1,7 +1,7 @@
 ---
 title: Protocolo clínico de tratamiento para los pacientes con SDRA secuncario a COVID
 tagline: 
-categories: millennium
+categories: servicio
 image: 
 date:   2020-10-31 12:00:00 +0100p
 author: 
