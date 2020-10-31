@@ -1,5 +1,5 @@
 ---
-title: Protocolo clínico de tratamiento para los pacientes con SDRA secuncario a COVID y nueva sección de "Información para pacientes"
+title: Protocolo clínico de tratamiento para los pacientes con SDRA secuncario a COVID y nueva sección de Información para pacientes
 tagline: 
 categories: servicio
 image: 
