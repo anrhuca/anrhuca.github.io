@@ -9,7 +9,7 @@ order: 2
 # Documentos del Servicio
 
 ## DESTACADOS
- * [Documentos REA COVID-19](https://anrhuca.es/paginas_servicio#documentos-covid-19)
+ * [Documentos de Organización y Protocolos COVID-19 del HUCA](https://anrhuca.es/paginas_servicio#documentos-covid-19)
 
 ## QUIRÓFANO
 * [Manejo perioperatorio COVID-19 (21/04/2020)](https://drive.google.com/open?id=1xOd71qoMVksNFs2mVernSaw4pjsjIQzU)
