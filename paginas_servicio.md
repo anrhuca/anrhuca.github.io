@@ -35,7 +35,7 @@ order: 2
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 
 ## REANIMACIÓN
-### DOCUMENTOS COVID-19
+### <span style="color: red">DOCUMENTOS COVID-19</span>
   * [**Organización COVID-19 HUCA octubre 2020** (01-11-2020)](https://drive.google.com/file/d/1lA87lFPffWwAkZMtf6aICAw4D4nZaIYv/view?usp=sharing)
   * [**Protocolos COVID-19 HUCA octubre 2020** (01-11-2020)](https://drive.google.com/file/d/1U8zObm-n-gypu5v7-IYnV9CBKVNJP8Of/view?usp=sharing)
   * [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19 (31/10/2020)](https://drive.google.com/file/d/1I87soAdq_cd_ogtagN5LAvcolplxtJka/view?usp=sharing)
