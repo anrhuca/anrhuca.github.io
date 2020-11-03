@@ -35,6 +35,12 @@ order: 2
 <!-- * [Manejo perioperatorio COVID-19 (19/03/2020)](docs/servicio/19_Marzo_Manejo_perioperatorio_COVID.pdf) -->
 
 ## REANIMACIÓN
+### DOCUMENTOS COVID-19
+  * [**Organización COVID-19 HUCA octubre 2020** (01-11-2020)](https://drive.google.com/file/d/1lA87lFPffWwAkZMtf6aICAw4D4nZaIYv/view?usp=sharing)
+  * [**Protocolos COVID-19 HUCA octubre 2020** (01-11-2020)](https://drive.google.com/file/d/1U8zObm-n-gypu5v7-IYnV9CBKVNJP8Of/view?usp=sharing)
+  * [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19 (31/10/2020)](https://drive.google.com/file/d/1I87soAdq_cd_ogtagN5LAvcolplxtJka/view?usp=sharing)
+  * [Protocolo decúbito prono en pacientes COVID-19 (03/04/2019)](https://drive.google.com/open?id=11syA0vuCuXNCuE9XON8HJeOC5gTEjfMB)
+  * [Tratamiento de aspergilosis en pacientes con COVID-19](https://drive.google.com/open?id=128TrbYelfP051p6BBsl6M1SOkSd7witR)
 ### ORGANIZACIÓN
   * [Circuitos REA2 (27/03/2020)](https://drive.google.com/open?id=1vAAzzKL-Df8DpRbol9MGNOpSI1QqhMke)
   * [Instrucciones personal médico REA y COVID-19 (27/03/2020)](https://drive.google.com/open?id=1vvaf6-jVJJEsYgcHwmefcmtG6AAbaxCf)
@@ -60,12 +66,6 @@ order: 2
 ### GINECOLOGÍA Y OBSTETRICIA
   * [Manejo perioperatorio de gestante y COVID-19](https://drive.google.com/open?id=1BuuMU_-emetKYazj1k1cSHml078pJ_uO)
 
-### DOCUMENTOS COVID-19
-  * [**Organización COVID-19 HUCA octubre 2020** (01-11-2020)](https://drive.google.com/file/d/1lA87lFPffWwAkZMtf6aICAw4D4nZaIYv/view?usp=sharing)
-  * [**Protocolos COVID-19 HUCA octubre 2020** (01-11-2020)](https://drive.google.com/file/d/1U8zObm-n-gypu5v7-IYnV9CBKVNJP8Of/view?usp=sharing)
-  * [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19 (31/10/2020)](https://drive.google.com/file/d/1I87soAdq_cd_ogtagN5LAvcolplxtJka/view?usp=sharing)
-  * [Protocolo decúbito prono en pacientes COVID-19 (03/04/2019)](https://drive.google.com/open?id=11syA0vuCuXNCuE9XON8HJeOC5gTEjfMB)
-  * [Tratamiento de aspergilosis en pacientes con COVID-19](https://drive.google.com/open?id=128TrbYelfP051p6BBsl6M1SOkSd7witR)
   
 ### OTROS
   * [Protocolo de manejo del gran quemado](https://drive.google.com/open?id=1kkQp65nL1dkyIpMJxeDRaZMJ0cwN7eq-)
