@@ -18,7 +18,6 @@ order: 2
 * [Algoritmo de decisión COVID-19 (21/04/2020)](https://drive.google.com/open?id=1r71jCsRsw3WrhD7UJHfcaOWCZb0mx_PY)
 * [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1t_n1Zu8BQQ34ThKyyM6otLCB0tlLIEXs)
 * [Circuitos de bloques quirúrgicos 1 y 2 COVID-19](https://drive.google.com/open?id=1-Ljb_zI7ILKKmP6RvgmSeP1HjKO_MY9l)
-* [Recomendaciones para la programación de cirugía en condiciones de seguridad durante la pandemia COVID-19 (20/11/2020)](https://drive.google.com/file/d/19GiuEwyHhGVvQaW0M3qAOI36IaGX9uc4/view?usp=sharing)
 
 ### **Colocación/Retirada de EPI** para ANESTESISTA, CIRCULANTE y CELADOR
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
@@ -38,6 +37,7 @@ order: 2
 
 ## REANIMACIÓN
 ### <span style="color: red">DOCUMENTOS COVID-19</span>
+  * [Recomendaciones para la programación de cirugía en condiciones de seguridad durante la pandemia COVID-19 (20/11/2020)](https://drive.google.com/file/d/19GiuEwyHhGVvQaW0M3qAOI36IaGX9uc4/view?usp=sharing)
   * [**Organización COVID-19 HUCA octubre 2020** (01-11-2020)](https://drive.google.com/file/d/1lA87lFPffWwAkZMtf6aICAw4D4nZaIYv/view?usp=sharing)
   * [**Protocolos COVID-19 HUCA octubre 2020** (01-11-2020)](https://drive.google.com/file/d/1U8zObm-n-gypu5v7-IYnV9CBKVNJP8Of/view?usp=sharing)
   * [Protocolo clínico de tratamiento para los pacientes con SDRA secundario a COVID-19 (31/10/2020)](https://drive.google.com/file/d/1I87soAdq_cd_ogtagN5LAvcolplxtJka/view?usp=sharing)
