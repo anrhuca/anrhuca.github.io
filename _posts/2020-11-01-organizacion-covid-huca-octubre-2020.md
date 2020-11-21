@@ -3,7 +3,7 @@ title: Nuevos documentos Organización COVID-19 HUCA 2020
 tagline: 
 categories: servicio
 image: 
-date:   2020-11-20 12:00:00 +0100p
+date:   2020-11-01 12:00:00 +0100p
 author: 
 meta: 
 ---
