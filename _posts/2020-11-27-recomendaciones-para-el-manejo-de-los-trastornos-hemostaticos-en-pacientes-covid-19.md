@@ -9,5 +9,5 @@ meta:
 ---
 
 Nueva versión de las Recomendaciones para el manejo de los trastornos hemostáticos en Pacientes COVID-19
-Se puede ver (aquí)[https://drive.google.com/file/d/1WB49zJbxUsEElegM0VcIX9PiJEZp0xzR/view?usp=sharing]
+Se puede ver [aquí](https://drive.google.com/file/d/1WB49zJbxUsEElegM0VcIX9PiJEZp0xzR/view?usp=sharing)
 <!--more-->
