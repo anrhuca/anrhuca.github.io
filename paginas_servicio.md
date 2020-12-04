@@ -8,6 +8,14 @@ order: 2
 ---
 # Documentos del Servicio
 
+## Índice
+ * [Destacados](#destacados)
+ * [Quirófano](#quirófano)
+ * [Radiología intervencionista](#radiología-intervencionista)
+ * [Reanimación](#reanimación)
+ * [Postoperatorio Reanimación](#postoperatorio-reanimación)
+ * [Manejo de la historia clínica electrónica (Millennium)](#manejo-de-la-historia-clinica-electrónica-millennium)
+
 ## DESTACADOS
  * [Documentos de Organización y Protocolos COVID-19 del HUCA](https://anrhuca.es/paginas_servicio#documentos-covid-19)
  * [Recomendaciones para la programación de cirugía en condiciones de seguridad durante la pandemia COVID-19 (20/11/2020)](https://drive.google.com/file/d/19GiuEwyHhGVvQaW0M3qAOI36IaGX9uc4/view?usp=sharing)
