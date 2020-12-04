@@ -9,6 +9,7 @@ meta:
 ---
 
 Se han publicado en Millennium los powerplanes de:
+
  * PRO ANR ingreso COVID 19
  * PRO ANR seguimiento COVID 19
 
