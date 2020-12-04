@@ -13,7 +13,6 @@ order: 2
  * [Quirófano](#quirófano)
  * [Radiología intervencionista](#radiología-intervencionista)
  * [Reanimación](#reanimación)
- * [Postoperatorio Reanimación](#postoperatorio-reanimación)
  * [Manejo de la historia clínica electrónica (Millennium)](#manejo-de-la-historia-clínica-electrónica-millennium)
 
 ## DESTACADOS
