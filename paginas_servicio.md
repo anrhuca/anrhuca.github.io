@@ -14,7 +14,7 @@ order: 2
  * [Radiología intervencionista](#radiología-intervencionista)
  * [Reanimación](#reanimación)
  * [Postoperatorio Reanimación](#postoperatorio-reanimación)
- * [Manejo de la historia clínica electrónica (Millennium)](#manejo-de-la-historia-clinica-electrónica-millennium)
+ * [Manejo de la historia clínica electrónica (Millennium)](#manejo-de-la-historia-clínica-electrónica-millennium)
 
 ## DESTACADOS
  * [Documentos de Organización y Protocolos COVID-19 del HUCA](https://anrhuca.es/paginas_servicio#documentos-covid-19)
