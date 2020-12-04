@@ -98,3 +98,8 @@ order: 2
   * [Perfusiones, cambio y pausa de perfusión](https://drive.google.com/open?id=1fbVuaQAbKe7EfhXqmUYoAohOyY3R-Y8L)
   * [Volcado de datos anestesia Externos](https://drive.google.com/open?id=1_WkhsojuAoBTSmGhcPdDnb5jh2x4LEL6)
   
+## Sesiones del servicio
+### Segundo semestre 2020
+  * [Experiencia clínica con Levosimendan en cirugía no cardiaca programada (16-10-2020)](https://drive.google.com/file/d/1sRLtyVlBAOh6Ds0MPmHXkxvHKu_169sg/view?usp=sharing)
+  * [Manejo de la preeclampsia (27-11-2020)](https://drive.google.com/file/d/1vtLLypWRfh47BSPQLVEl58rhN1N0ayA6/view?usp=sharing)
+  
