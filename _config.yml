@@ -43,6 +43,7 @@ paginate_path: /novedades/page:num/
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-menus
 
 # Exclude from processing.
 # The following items will not be processed, by default.
