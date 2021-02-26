@@ -102,4 +102,5 @@ order: 2
 ### Segundo semestre 2020
   * [Experiencia clínica con Levosimendan en cirugía no cardiaca programada (16-10-2020)](https://drive.google.com/file/d/1sRLtyVlBAOh6Ds0MPmHXkxvHKu_169sg/view?usp=sharing)
   * [Manejo de la preeclampsia (27-11-2020)](https://drive.google.com/file/d/1vtLLypWRfh47BSPQLVEl58rhN1N0ayA6/view?usp=sharing)
+  * [Cribado preoperatorio COVID 19 (19-02-2021)](https://drive.google.com/file/d/1j9NTFKvihb0izfN5YUaccYPGj9VL9eOu/view?usp=sharing)
   
