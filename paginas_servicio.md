@@ -20,9 +20,10 @@ order: 2
  * [Recomendaciones para la programación de cirugía en condiciones de seguridad durante la pandemia COVID-19 (20/11/2020)](https://drive.google.com/file/d/19GiuEwyHhGVvQaW0M3qAOI36IaGX9uc4/view?usp=sharing)
 
 ## QUIRÓFANO
-* [Manejo perioperatorio COVID-19 (21/04/2020)](https://drive.google.com/open?id=1xOd71qoMVksNFs2mVernSaw4pjsjIQzU)
+* [Algoritmo de cribado preoperatorio COVID 19 (19-02-2021) (https://drive.google.com/file/d/1nHW9bBQRSUKgBzkYoI31bgqzVKNR0CTP/view?usp=sharing)
+* [Manejo perioperatorio COVID-19 (21-04-2020)](https://drive.google.com/open?id=1xOd71qoMVksNFs2mVernSaw4pjsjIQzU)
 * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
-* [Algoritmo de decisión COVID-19 (21/04/2020)](https://drive.google.com/open?id=1r71jCsRsw3WrhD7UJHfcaOWCZb0mx_PY)
+* [Algoritmo de decisión COVID-19 (21-04-2020)](https://drive.google.com/open?id=1r71jCsRsw3WrhD7UJHfcaOWCZb0mx_PY)
 * [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1t_n1Zu8BQQ34ThKyyM6otLCB0tlLIEXs)
 * [Circuitos de bloques quirúrgicos 1 y 2 COVID-19](https://drive.google.com/open?id=1-Ljb_zI7ILKKmP6RvgmSeP1HjKO_MY9l)
 
