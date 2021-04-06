@@ -1,5 +1,5 @@
 ---
-title: Prueba
+title: Sesión del Servicio: Proyecto dolor ZERO
 tagline: 
 categories: sesiones
 image: 
