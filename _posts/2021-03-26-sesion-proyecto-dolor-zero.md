@@ -1,5 +1,5 @@
 ---
-title: Sesión del Servicio: "Proyecto dolor ZERO"
+title: Sesión del Servicio: Proyecto dolor ZERO
 tagline: 
 categories: sesiones
 image: 
