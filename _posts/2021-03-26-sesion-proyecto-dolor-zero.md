@@ -1,15 +1,13 @@
 ---
-title: Sesión Cribado preoperatorio COVID 19 y Algoritmo de Cribado preoperatorio
+title: Sesión del Servicio: Proyecto dolor ZERO
 tagline: 
 categories: sesiones
 image: 
-date:   2021-02-23 12:00:00 +0100p
+date:   2021-03-26 12:00:00 +0100p
 author: 
 meta: 
 ---
 
-  * Presentación de la sesión de Cribado preoperatorio COVID 19 (19-02-2021). Se puede descargar [aquí](https://drive.google.com/file/d/1j9NTFKvihb0izfN5YUaccYPGj9VL9eOu/view?usp=sharing)
-  * Algoritmo de cribado preoperatorio [aquí](https://drive.google.com/file/d/1nHW9bBQRSUKgBzkYoI31bgqzVKNR0CTP/view?usp=sharing)
-
-<!--more-->
+  * Presentación de la sesión de Proyecto dolor ZERO (26-03-2021). Se puede descargar [aquí](https://drive.google.com/file/d/1Tsyp1Q3DvXJVOSMjXnSxTz4Lb4lzpXQN/view?usp=sharing)
+  * Protocolos según tipo de intervención y el dolor esperable en cada una de ellas [aquí](https://drive.google.com/file/d/13mE-MzI8xPDjQowKYYPtPlLaqZB9Rgb2/view?usp=sharing)
 
