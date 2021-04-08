@@ -103,6 +103,9 @@ order: 2
 ### Primer semestre 2021
 
   * [Cribado preoperatorio COVID 19 (19-02-2021)](https://drive.google.com/file/d/1j9NTFKvihb0izfN5YUaccYPGj9VL9eOu/view?usp=sharing)
+  * Presentación de la sesión de Proyecto dolor ZERO (26-03-2021). Se puede descargar [aquí](https://drive.google.com/file/d/1Tsyp1Q3DvXJVOSMjXnSxTz4Lb4lzpXQN/view?usp=sharing)
+  * Protocolos según tipo de intervención y el dolor esperable en cada una de ellas (26-03-2021) [aquí](https://drive.google.com/file/d/13mE-MzI8xPDjQowKYYPtPlLaqZB9Rgb2/view?usp=sharing)
+
 
 ### Segundo semestre 2020
   * [Experiencia clínica con Levosimendan en cirugía no cardiaca programada (16-10-2020)](https://drive.google.com/file/d/1sRLtyVlBAOh6Ds0MPmHXkxvHKu_169sg/view?usp=sharing)
