@@ -106,7 +106,7 @@ order: 2
   * [Presentación de la sesión de Proyecto dolor ZERO (26-03-2021)](https://drive.google.com/file/d/1Tsyp1Q3DvXJVOSMjXnSxTz4Lb4lzpXQN/view?usp=sharing)
   * [Protocolos según tipo de intervención y el dolor esperable en cada una de ellas (26-03-2021)](https://drive.google.com/file/d/13mE-MzI8xPDjQowKYYPtPlLaqZB9Rgb2/view?usp=sharing)
   * [Esofaguectomía](https://drive.google.com/file/d/1uAZQSTbEbOT63TZjKNJAUJgIG8vnGMGc/view?usp=sharing)
-  * [¿Cómo Puede Ayudar la Microbiología en el Diagnóstico de la IFI?)(https://drive.google.com/file/d/1Z1EoDXXRwR3c1c_v5TzRkXLlFK6s7Zsn/view?usp=sharing)
+  * [¿Cómo Puede Ayudar la Microbiología en el Diagnóstico de la IFI?](https://drive.google.com/file/d/1Z1EoDXXRwR3c1c_v5TzRkXLlFK6s7Zsn/view?usp=sharing)
 
 
 ### Segundo semestre 2020
