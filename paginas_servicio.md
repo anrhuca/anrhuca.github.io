@@ -100,6 +100,9 @@ order: 2
   * [Volcado de datos anestesia Externos](https://drive.google.com/open?id=1_WkhsojuAoBTSmGhcPdDnb5jh2x4LEL6)
   
 ## Sesiones del servicio
+### Segundo semestre 2021
+  * [Protocolo cribado preoperatorio COVID 19 (24/6/2021)](https://drive.google.com/file/d/1S4-0ByyGUAhD5nsJLHKWenXJoDXOigLx/view?usp=sharing)
+
 ### Primer semestre 2021
 
   * [Cribado preoperatorio COVID 19 (19-02-2021)](https://drive.google.com/file/d/1j9NTFKvihb0izfN5YUaccYPGj9VL9eOu/view?usp=sharing)
