@@ -102,6 +102,7 @@ order: 2
 ## Sesiones del servicio
 ### Segundo semestre 2021
   * [Protocolo cribado preoperatorio COVID 19 (24/6/2021)](https://drive.google.com/file/d/1S4-0ByyGUAhD5nsJLHKWenXJoDXOigLx/view?usp=sharing)
+  * [Proyecto MAPBM (22-10-2021)](https://drive.google.com/file/d/1k96GOKYFH3tJ3qz2SDhwOyp0NP_Lyi3x/view?usp=sharing)
 
 ### Primer semestre 2021
 
