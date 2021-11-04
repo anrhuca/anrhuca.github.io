@@ -102,7 +102,6 @@ order: 2
 ## Sesiones del servicio
 ### Segundo semestre 2021
   * [Protocolo cribado preoperatorio COVID 19 (24/6/2021)](https://drive.google.com/file/d/1S4-0ByyGUAhD5nsJLHKWenXJoDXOigLx/view?usp=sharing)
-  * [Hipotermia perioperatoria no intencionada](https://drive.google.com/file/d/142akqzmk3YDTVByUl6oe5ea2kHT27EeQ/view?usp=sharing)
   * [Proyecto MAPBM (22-10-2021)](https://drive.google.com/file/d/1k96GOKYFH3tJ3qz2SDhwOyp0NP_Lyi3x/view?usp=sharing)
 
 ### Primer semestre 2021
@@ -112,6 +111,7 @@ order: 2
   * [Protocolos según tipo de intervención y el dolor esperable en cada una de ellas (26-03-2021)](https://drive.google.com/file/d/13mE-MzI8xPDjQowKYYPtPlLaqZB9Rgb2/view?usp=sharing)
   * [Esofaguectomía (marzo-21)](https://drive.google.com/file/d/1uAZQSTbEbOT63TZjKNJAUJgIG8vnGMGc/view?usp=sharing)
   * [¿Cómo Puede Ayudar la Microbiología en el Diagnóstico de la IFI? (marzo-21)](https://drive.google.com/file/d/1Z1EoDXXRwR3c1c_v5TzRkXLlFK6s7Zsn/view?usp=sharing)
+  * [Hipotermia perioperatoria no intencionada (23/04/2021](https://drive.google.com/file/d/142akqzmk3YDTVByUl6oe5ea2kHT27EeQ/view?usp=sharing)
 
 
 ### Segundo semestre 2020
