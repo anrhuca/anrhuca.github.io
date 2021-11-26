@@ -101,7 +101,7 @@ order: 2
   
 ## Sesiones del servicio
 ### Segundo semestre 2021
-  * [Protocolo cribado preoperatorio COVID 19 (24/6/2021)](https://drive.google.com/file/d/1S4-0ByyGUAhD5nsJLHKWenXJoDXOigLx/view?usp=sharing)
+  
   * [Proyecto MAPBM (22-10-2021)](https://drive.google.com/file/d/1k96GOKYFH3tJ3qz2SDhwOyp0NP_Lyi3x/view?usp=sharing)
 
 ### Primer semestre 2021
@@ -112,7 +112,7 @@ order: 2
   * [Esofaguectomía (marzo-21)](https://drive.google.com/file/d/1uAZQSTbEbOT63TZjKNJAUJgIG8vnGMGc/view?usp=sharing)
   * [¿Cómo Puede Ayudar la Microbiología en el Diagnóstico de la IFI? (marzo-21)](https://drive.google.com/file/d/1Z1EoDXXRwR3c1c_v5TzRkXLlFK6s7Zsn/view?usp=sharing)
   * [Hipotermia perioperatoria no intencionada (23/04/2021](https://drive.google.com/file/d/142akqzmk3YDTVByUl6oe5ea2kHT27EeQ/view?usp=sharing)
-
+  * [Protocolo cribado preoperatorio COVID 19 (24/6/2021)](https://drive.google.com/file/d/1S4-0ByyGUAhD5nsJLHKWenXJoDXOigLx/view?usp=sharing)
 
 ### Segundo semestre 2020
   * [Experiencia clínica con Levosimendan en cirugía no cardiaca programada (16-10-2020)](https://drive.google.com/file/d/1sRLtyVlBAOh6Ds0MPmHXkxvHKu_169sg/view?usp=sharing)
