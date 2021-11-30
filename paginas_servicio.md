@@ -103,6 +103,8 @@ order: 2
 ### Segundo semestre 2021
   
   * [Proyecto MAPBM (22-10-2021)](https://drive.google.com/file/d/1k96GOKYFH3tJ3qz2SDhwOyp0NP_Lyi3x/view?usp=sharing)
+  * [RCP (29-10-2021)](https://prezi.com/view/nfvVSyA7Mb8OOx5S4SUO/)
+  * [Inervación pared torácica (HUCA) (26-11-2021)](https://drive.google.com/file/d/1Bchfi9O2B3KTCNlJ_RBybPtC2bibu_so/view?usp=sharing)
 
 ### Primer semestre 2021
 
