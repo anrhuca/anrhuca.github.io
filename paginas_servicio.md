@@ -100,6 +100,10 @@ order: 2
   * [Volcado de datos anestesia Externos](https://drive.google.com/open?id=1_WkhsojuAoBTSmGhcPdDnb5jh2x4LEL6)
   
 ## Sesiones del servicio
+### Primer semestre 2022
+
+  * [Náuseas y vómitos postoperatorios (11-02-2022)](https://drive.google.com/file/d/169mYK9q0_GMCp166TZ9HUjvs88LHBTI9/view?usp=sharing)
+
 ### Segundo semestre 2021
   
   * [Proyecto MAPBM (22-10-2021)](https://drive.google.com/file/d/1k96GOKYFH3tJ3qz2SDhwOyp0NP_Lyi3x/view?usp=sharing)
