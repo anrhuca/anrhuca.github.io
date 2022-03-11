@@ -98,6 +98,9 @@ order: 2
   * [Macros](https://drive.google.com/open?id=1nSPhslpYMqD4KFCWLMvKhNxzy1n2OzO1)
   * [Perfusiones, cambio y pausa de perfusión](https://drive.google.com/open?id=1fbVuaQAbKe7EfhXqmUYoAohOyY3R-Y8L)
   * [Volcado de datos anestesia Externos](https://drive.google.com/open?id=1_WkhsojuAoBTSmGhcPdDnb5jh2x4LEL6)
+
+### Visualización remota de gráfica del monitor de quirófano
+  * [Guía de VISUALIZACION EN REMOTO GRAFICA MONITOR  TUTORIAL 9 marzo 2022](https://drive.google.com/file/d/1hi2sp-bBNHVpnlChO0kWP3bSvEBYUv20/view?usp=sharing)
   
 ## Sesiones del servicio
 ### Primer semestre 2022
