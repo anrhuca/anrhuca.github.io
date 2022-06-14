@@ -108,6 +108,7 @@ order: 2
   * [Enlace a sesión Andromeda 2 Shock](https://www.youtube.com/watch?v=exE82NH5QUE&list=PL3yUHgl8jA_x1q9O13BJyNO3UPQdKIMDp&index=15)
   * [Náuseas y vómitos postoperatorios (11-02-2022)](https://drive.google.com/file/d/169mYK9q0_GMCp166TZ9HUjvs88LHBTI9/view?usp=sharing)
   * [Perfusión tisular](https://drive.google.com/file/d/1pccw9gtJgxnk9YZn8gnJ6X6QHy2-TloJ/view?usp=sharing)
+  * [Presentación Comité de Ética (CEAS) (24-05-2022)](https://drive.google.com/file/d/102PGfoTiwgVZTJksIjQw_iKLBXdKBCIK/view?usp=sharing)
 
 ### Segundo semestre 2021
   
@@ -128,5 +129,5 @@ order: 2
 ### Segundo semestre 2020
   * [Experiencia clínica con Levosimendan en cirugía no cardiaca programada (16-10-2020)](https://drive.google.com/file/d/1sRLtyVlBAOh6Ds0MPmHXkxvHKu_169sg/view?usp=sharing)
   * [Manejo de la preeclampsia (27-11-2020)](https://drive.google.com/file/d/1vtLLypWRfh47BSPQLVEl58rhN1N0ayA6/view?usp=sharing)
-
+  
   
