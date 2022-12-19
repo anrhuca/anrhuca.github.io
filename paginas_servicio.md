@@ -103,6 +103,11 @@ order: 2
   * [Guía de VISUALIZACION EN REMOTO GRAFICA MONITOR  TUTORIAL 9 marzo 2022](https://drive.google.com/file/d/1hi2sp-bBNHVpnlChO0kWP3bSvEBYUv20/view?usp=sharing)
   
 ## Sesiones del servicio
+
+### Segundo semestre 2022
+
+  * [Vasopresina (16/12/2022](https://prezi.com/view/eZmRtluc1Dub2heLebrK/)
+
 ### Primer semestre 2022
 
   * [Enlace a sesión Andromeda 2 Shock](https://www.youtube.com/watch?v=exE82NH5QUE&list=PL3yUHgl8jA_x1q9O13BJyNO3UPQdKIMDp&index=15)
