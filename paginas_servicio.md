@@ -106,7 +106,7 @@ order: 2
 
 ### Segundo semestre 2022
 
-  * [Vasopresina (16/12/2022](https://prezi.com/view/eZmRtluc1Dub2heLebrK/)
+  * [Vasopresina (16/12/2022)](https://prezi.com/view/eZmRtluc1Dub2heLebrK/)
 
 ### Primer semestre 2022
 
