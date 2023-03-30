@@ -17,7 +17,7 @@ order: 2
   * [Sesiones del servicio](#sesiones-del-servicio)
 
 ## PREOPERATORIO
-  * [PROTOCOLO PARA EL MANEJO EN QUIRÓFANO DE PACIENTES PEDIÁTRICOS CON DIABETES](https://drive.google.com/file/d/1yOm7eJsKzAkTO6L4Y_aNGqA4IgvosVhm/view?usp=sharing)
+  * [Protocolo para el manejo en quirófano de pacientes pediátricos con diabetes](https://drive.google.com/file/d/1yOm7eJsKzAkTO6L4Y_aNGqA4IgvosVhm/view?usp=sharing)
 
 ## QUIRÓFANO
   * [Algoritmo de cribado preoperatorio COVID No19 (19-02-2021)](https://drive.google.com/file/d/1nHW9bBQRSUKgBzkYoI31bgqzVKNR0CTP/view?usp=sharing)
