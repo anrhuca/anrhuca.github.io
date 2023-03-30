@@ -9,23 +9,23 @@ order: 2
 # Documentos del Servicio
 
 ## Índice
- * [Destacados](#destacados)
- * [Quirófano](#quirófano)
- * [Radiología intervencionista](#radiología-intervencionista)
- * [Reanimación](#reanimación)
- * [Manejo de la historia clínica electrónica (Millennium)](#manejo-de-la-historia-clínica-electrónica-millennium)
- * [Sesiones del servicio](#sesiones-del-servicio)
-## DESTACADOS
- * [Documentos de Organización y Protocolos COVID-19 del HUCA](https://anrhuca.es/paginas_servicio#documentos-covid-19)
- * [Recomendaciones para la programación de cirugía en condiciones de seguridad durante la pandemia COVID-19 (20/11/2020)](https://drive.google.com/file/d/19GiuEwyHhGVvQaW0M3qAOI36IaGX9uc4/view?usp=sharing)
+  * [Destacados](#destacados)
+  * [Quirófano](#quirófano)
+  * [Radiología intervencionista](#radiología-intervencionista)
+  * [Reanimación](#reanimación)
+  * [Manejo de la historia clínica electrónica (Millennium)](#manejo-de-la-historia-clínica-electrónica-millennium)
+  * [Sesiones del servicio](#sesiones-del-servicio)
+
+## PREOPERATORIO
+  * [PROTOCOLO PARA EL MANEJO EN QUIRÓFANO DE PACIENTES PEDIÁTRICOS CON DIABETES](https://drive.google.com/file/d/1yOm7eJsKzAkTO6L4Y_aNGqA4IgvosVhm/view?usp=sharing)
 
 ## QUIRÓFANO
-* [Algoritmo de cribado preoperatorio COVID No19 (19-02-2021)](https://drive.google.com/file/d/1nHW9bBQRSUKgBzkYoI31bgqzVKNR0CTP/view?usp=sharing)
-* [Manejo perioperatorio COVID-19 (21-04-2020)](https://drive.google.com/open?id=1xOd71qoMVksNFs2mVernSaw4pjsjIQzU)
-* [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
-* [Algoritmo de decisión COVID-19 (21-04-2020)](https://drive.google.com/open?id=1r71jCsRsw3WrhD7UJHfcaOWCZb0mx_PY)
-* [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1t_n1Zu8BQQ34ThKyyM6otLCB0tlLIEXs)
-* [Circuitos de bloques quirúrgicos 1 y 2 COVID-19](https://drive.google.com/open?id=1-Ljb_zI7ILKKmP6RvgmSeP1HjKO_MY9l)
+  * [Algoritmo de cribado preoperatorio COVID No19 (19-02-2021)](https://drive.google.com/file/d/1nHW9bBQRSUKgBzkYoI31bgqzVKNR0CTP/view?usp=sharing)
+  * [Manejo perioperatorio COVID-19 (21-04-2020)](https://drive.google.com/open?id=1xOd71qoMVksNFs2mVernSaw4pjsjIQzU)
+  * [Material de quirófanos](docs/servicio/MATERALQUIROFANOS_COVID_19.docx)
+  * [Algoritmo de decisión COVID-19 (21-04-2020)](https://drive.google.com/open?id=1r71jCsRsw3WrhD7UJHfcaOWCZb0mx_PY)
+  * [Manejo perioperatorio del paciente pediátrico y COVID-19](https://drive.google.com/open?id=1t_n1Zu8BQQ34ThKyyM6otLCB0tlLIEXs)
+  * [Circuitos de bloques quirúrgicos 1 y 2 COVID-19](https://drive.google.com/open?id=1-Ljb_zI7ILKKmP6RvgmSeP1HjKO_MY9l)
 
 ### **Colocación/Retirada de EPI** para ANESTESISTA, CIRCULANTE y CELADOR
   * [Check List EPI QUIRÓFANO ANESTESISTA, CIRCULANTE y CELADOR (19-03-2020)](docs/servicio/CHECK_LIST_EPI_quirófano_Anestesista_Circulante_y_Celador.docx)
