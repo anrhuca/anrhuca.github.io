@@ -9,7 +9,7 @@ order: 2
 # Documentos del Servicio
 
 ## Índice
-  * [Destacados](#destacados)
+  * [Preoperatorio](#preoperatorio)
   * [Quirófano](#quirófano)
   * [Radiología intervencionista](#radiología-intervencionista)
   * [Reanimación](#reanimación)
