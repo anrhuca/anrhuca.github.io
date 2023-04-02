@@ -106,7 +106,7 @@ order: 2
 
 ### Primer semestre 2023
 
-  * [NR-Fit: Cultura de seguridad](https://drive.google.com/file/d/1-dcf7PR6YRjVXvTlnyfrMuxOcTK8_oy-/view?usp=sharing)
+  * [NR-Fit: Cultura de seguridad (31-03-23)](https://drive.google.com/file/d/1-dcf7PR6YRjVXvTlnyfrMuxOcTK8_oy-/view?usp=sharing)
 
 
 ### Segundo semestre 2022
