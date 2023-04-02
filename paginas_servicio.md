@@ -104,6 +104,11 @@ order: 2
   
 ## Sesiones del servicio
 
+### Primer semestre 2023
+
+  * [NR-Fit: Cultura de seguridad](https://drive.google.com/file/d/1-dcf7PR6YRjVXvTlnyfrMuxOcTK8_oy-/view?usp=sharing)
+
+
 ### Segundo semestre 2022
 
   * [Vasopresina (16/12/2022)](https://prezi.com/view/eZmRtluc1Dub2heLebrK/)
