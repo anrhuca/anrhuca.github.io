@@ -17,6 +17,7 @@ order: 2
   * [Sesiones del servicio](#sesiones-del-servicio)
 
 ## PREOPERATORIO
+  * [Patient Blood Management (PBM): Anemia en cirugía oncológica](https://drive.google.com/file/d/1VSUvyH6VRM0qhL4q8sI4nC3QfDfbif1r/view?usp=drive_link)
   * [Protocolo para el manejo en quirófano de pacientes pediátricos con diabetes](https://drive.google.com/file/d/1yOm7eJsKzAkTO6L4Y_aNGqA4IgvosVhm/view?usp=sharing)
 
 ## QUIRÓFANO
