@@ -104,9 +104,13 @@ order: 2
   
 ## Sesiones del servicio
 
+### Segundo semestre 2023
+
+  * [Mortalidad en laparotomía de Emergencia (20/10/2023)](https://docs.google.com/presentation/d/1ko_Ag0VBswBVRbX8pBHTrUDqLHWijtW_/edit?usp=sharing&ouid=115488018487095635574&rtpof=true&sd=true)
+
+
 ### Primer semestre 2023
 
-  * [Mortalidad en laparotomía de Emergencia](https://docs.google.com/presentation/d/1ko_Ag0VBswBVRbX8pBHTrUDqLHWijtW_/edit?usp=sharing&ouid=115488018487095635574&rtpof=true&sd=true)
   *  [NR-Fit: Cultura de seguridad (31-03-23)](https://drive.google.com/file/d/1-dcf7PR6YRjVXvTlnyfrMuxOcTK8_oy-/view?usp=sharing)
 
 
