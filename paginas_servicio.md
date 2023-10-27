@@ -106,7 +106,8 @@ order: 2
 
 ### Primer semestre 2023
 
-  * [NR-Fit: Cultura de seguridad (31-03-23)](https://drive.google.com/file/d/1-dcf7PR6YRjVXvTlnyfrMuxOcTK8_oy-/view?usp=sharing)
+  * [Mortalidad en laparotomía de Emergencia](https://docs.google.com/presentation/d/1ko_Ag0VBswBVRbX8pBHTrUDqLHWijtW_/edit?usp=sharing&ouid=115488018487095635574&rtpof=true&sd=true)
+  *  [NR-Fit: Cultura de seguridad (31-03-23)](https://drive.google.com/file/d/1-dcf7PR6YRjVXvTlnyfrMuxOcTK8_oy-/view?usp=sharing)
 
 
 ### Segundo semestre 2022
