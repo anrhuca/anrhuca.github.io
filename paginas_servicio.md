@@ -108,7 +108,7 @@ order: 2
 ### Segundo semestre 2023
 
   * [Mortalidad en laparotomía de Emergencia (20/10/2023)](https://docs.google.com/presentation/d/1ko_Ag0VBswBVRbX8pBHTrUDqLHWijtW_/edit?usp=sharing&ouid=115488018487095635574&rtpof=true&sd=true)
-  * [Reanimación Hemostásica: ¿Cómo y cuándo es la mejor opción?(27/09/2023)](https://drive.google.com/file/d/1Na_qmqEHej4fPskW4dLYL7sqGPun6sbP/view?usp=sharing)
+  * [Reanimación Hemostásica: ¿Cómo y cuándo es la mejor opción en el paciente con cirrosis hepática?(27/09/2023)](https://drive.google.com/file/d/1Na_qmqEHej4fPskW4dLYL7sqGPun6sbP/view?usp=sharing)
 
 
 ### Primer semestre 2023
