@@ -3,7 +3,7 @@ title: Sesión del servicio - Circuito de valoración de la anemia preoperatoria
 tagline: 
 categories: servicio
 image: 
-date:   2023-03-31 12:00:00 +0100p
+date:   2024-05-17 12:00:00 +0100p
 author: 
 meta: 
 ---
