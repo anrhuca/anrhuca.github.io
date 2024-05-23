@@ -105,6 +105,10 @@ order: 2
   
 ## Sesiones del servicio
 
+### Primer semestre 2024
+
+  * [Circuito de valoración de la anemia preoperatoria HUCA (17/05/24)](https://drive.google.com/file/d/11aVjoIFT0E4IxZBmyY0Jmaq4dyI6X977/view?usp=sharing)
+
 ### Segundo semestre 2023
 
   * [Actualización en torno a la seguridad y optimización para evitar riesgos asociados en ecografía intervencionista en procedimientos de bloqueo de plexos nerviosos (18/11/2023](https://drive.google.com/file/d/15pDlZnuvIp8B6ANYxMXmZy0TGa9J3lSN/view?usp=sharing)
