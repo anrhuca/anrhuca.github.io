@@ -111,7 +111,7 @@ order: 2
 
 ### Segundo semestre 2023
 
-  * [Actualización en torno a la seguridad y optimización para evitar riesgos asociados en ecografía intervencionista en procedimientos de bloqueo de plexos nerviosos (18/11/2023](https://drive.google.com/file/d/15pDlZnuvIp8B6ANYxMXmZy0TGa9J3lSN/view?usp=sharing)
+  * [Actualización en torno a la seguridad y optimización para evitar riesgos asociados en ecografía intervencionista en procedimientos de bloqueo de plexos nerviosos (18/11/2023)](https://drive.google.com/file/d/15pDlZnuvIp8B6ANYxMXmZy0TGa9J3lSN/view?usp=sharing)
   * [Mortalidad en laparotomía de Emergencia (20/10/2023)](https://docs.google.com/presentation/d/1ko_Ag0VBswBVRbX8pBHTrUDqLHWijtW_/edit?usp=sharing&ouid=115488018487095635574&rtpof=true&sd=true)
   * [Reanimación Hemostásica: ¿Cómo y cuándo es la mejor opción en el paciente con cirrosis hepática?(27/09/2023)](https://drive.google.com/file/d/1Na_qmqEHej4fPskW4dLYL7sqGPun6sbP/view?usp=sharing)
 
