@@ -12,4 +12,4 @@ order: 2
 * [Consentimiento informado para transfusión](https://drive.google.com/file/d/1E85pWvTxbbzsvLiCdJMPIHijRhaLSkzm/view?usp=sharing)
 * [Información a los padres sobre la anestesia de su hijo/a para la Resonancia o TC](https://drive.google.com/file/d/1EI_7ZshX-KepBy0-Xj192lhsvBTlO0p-/view?usp=sharing)
 * [Información a los padres sobre la anestesia de su hijo/a](https://drive.google.com/file/d/1h5sBsEmR830JhkSNTSsnxkJWsp_CGavp/view?usp=sharing)
-* [Vacunación y cirugía](https://drive.google.com/file/d/1oF2A5X23kZpwGIomuDihcdGcZOCxyLY0/view?usp=sharing)
+* [Vacunación y cirugía](https://drive.google.com/file/d/1D4koyWalt7xs2ewi4gLdvA_JnTXEPLHi/view?usp=sharing)
