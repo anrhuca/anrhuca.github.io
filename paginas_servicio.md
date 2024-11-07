@@ -105,9 +105,16 @@ order: 2
   
 ## Sesiones del servicio
 
+### Segundo semestre 2024
+
+
+
 ### Primer semestre 2024
 
-  * [Circuito de valoración de la anemia preoperatoria HUCA (17/05/24)](https://drive.google.com/file/d/11aVjoIFT0E4IxZBmyY0Jmaq4dyI6X977/view?usp=sharing)
+  * [Sesión Vasopresina](https://drive.google.com/file/d/1bf8-kNDdJ8u-yBSEi47eqlfYegYZzwS9/view?usp=sharing)
+  * [Sesión SARTD'24](https://drive.google.com/file/d/1WTaRuzmCThTrVZ5Nr6KtXqfDMcvllsxT/view?usp=sharing)
+  * [Lista verificación IOT](https://drive.google.com/file/d/1krpilKenHZLaAJku9rTFFwmyJJeteBEq/view?usp=share_link)
+  * [Sesión VADF](https://drive.google.com/file/d/1VyLkxuHSbGNxPJU-BmOY8IBvMd0Xvoro/view?usp=sharing)
 
 ### Segundo semestre 2023
 
