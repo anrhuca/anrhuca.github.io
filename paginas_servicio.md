@@ -105,9 +105,8 @@ order: 2
   
 ## Sesiones del servicio
 
-### Segundo semestre 2024
-
-
+### 2025
+  * [Manejo perioperatorio de pacientes con Diabetes Mellitus](https://drive.google.com/file/d/17oP1gPD-dckBAscSGXQy20mvx3uBCK5d/view?usp=sharing)
 
 ### Primer semestre 2024
 
