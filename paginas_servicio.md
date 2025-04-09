@@ -107,6 +107,7 @@ order: 2
 
 ### 2025
   * [Manejo perioperatorio de pacientes con Diabetes Mellitus](https://drive.google.com/file/d/17oP1gPD-dckBAscSGXQy20mvx3uBCK5d/view?usp=sharing)
+  * [Radiofrecuencia coablativa Nucleotomía discal percutánea (28/03/2025)](https://drive.google.com/file/d/1T9haW7uRT6KxaaMcVtU9RAdB5dqgTgEh/view?usp=sharing)
 
 ### Primer semestre 2024
 
